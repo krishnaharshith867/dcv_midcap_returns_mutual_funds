@@ -1,0 +1,1118 @@
+Scheme Code;NAV Name;Plan;Option;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net Asset Value;Date
+
+Open Ended Schemes ( Equity Scheme - Multi Cap Fund )
+
+
+ITI Mutual Fund
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.5543;01-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.5707;02-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.5624;03-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.5683;04-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.4513;05-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.2771;08-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.2785;09-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.2271;10-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.2724;11-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.2729;12-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.2811;15-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.3634;16-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.3724;17-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.2932;18-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.1498;19-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.1038;22-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.1361;23-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.0883;24-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.0979;25-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.1349;26-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.0508;29-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;9.9808;30-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.0068;31-Jul-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;9.8973;01-Aug-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;9.9369;02-Aug-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;9.8415;05-Aug-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;9.9701;06-Aug-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;9.9272;07-Aug-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.0358;08-Aug-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.1294;09-Aug-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;9.9451;13-Aug-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.0318;14-Aug-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.0695;16-Aug-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.1093;19-Aug-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.0807;20-Aug-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.0183;21-Aug-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;9.8652;22-Aug-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;9.9189;23-Aug-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.1180;26-Aug-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.1840;27-Aug-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.1197;28-Aug-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.0676;29-Aug-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.1434;30-Aug-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;9.9828;03-Sep-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.0023;04-Sep-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.0547;05-Sep-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.1650;06-Sep-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.2396;09-Sep-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.2835;11-Sep-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.2323;12-Sep-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.3226;13-Sep-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.2679;16-Sep-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.0784;17-Sep-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.1009;18-Sep-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;9.9929;19-Sep-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.5640;20-Sep-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.8751;23-Sep-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.8603;24-Sep-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.6957;25-Sep-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.8472;26-Sep-2019
+147183;ITI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01168;;10.8167;27-Sep-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.5543;01-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.5707;02-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.5624;03-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.5683;04-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.4513;05-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.2771;08-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.2785;09-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.2271;10-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.2724;11-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.2729;12-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.2811;15-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.3634;16-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.3724;17-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.2932;18-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.1498;19-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.1038;22-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.1361;23-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.0883;24-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.0979;25-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.1349;26-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.0508;29-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;9.9808;30-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.0068;31-Jul-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;9.8973;01-Aug-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;9.9369;02-Aug-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;9.8415;05-Aug-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;9.9701;06-Aug-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;9.9272;07-Aug-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.0358;08-Aug-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.1294;09-Aug-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;9.9451;13-Aug-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.0318;14-Aug-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.0695;16-Aug-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.1093;19-Aug-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.0807;20-Aug-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.0183;21-Aug-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;9.8652;22-Aug-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;9.9189;23-Aug-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.1180;26-Aug-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.1840;27-Aug-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.1197;28-Aug-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.0676;29-Aug-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.1434;30-Aug-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;9.9828;03-Sep-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.0023;04-Sep-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.0547;05-Sep-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.1650;06-Sep-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.2396;09-Sep-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.2835;11-Sep-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.2323;12-Sep-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.3226;13-Sep-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.2679;16-Sep-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.0784;17-Sep-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.1009;18-Sep-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;9.9929;19-Sep-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.5640;20-Sep-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.8751;23-Sep-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.8603;24-Sep-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.6957;25-Sep-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.8472;26-Sep-2019
+147186;ITI Multi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01176;INF00XX01184;10.8167;27-Sep-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.5280;01-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.5437;02-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.5348;03-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.5401;04-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.4229;05-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.2473;08-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.2482;09-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.1963;10-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.2409;11-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.2408;12-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.2472;15-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.3287;16-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.3370;17-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.2575;18-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.1141;19-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.0665;22-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.0981;23-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.0499;24-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.0589;25-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.0951;26-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.0097;29-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;9.9394;30-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;9.9647;31-Jul-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;9.8551;01-Aug-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;9.8939;02-Aug-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;9.7973;05-Aug-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;9.9248;06-Aug-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;9.8814;07-Aug-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;9.9890;08-Aug-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.0816;09-Aug-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;9.8959;13-Aug-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;9.9816;14-Aug-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.0179;16-Aug-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.0557;19-Aug-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.0267;20-Aug-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;9.9641;21-Aug-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;9.8112;22-Aug-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;9.8641;23-Aug-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.0604;26-Aug-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.1254;27-Aug-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.0608;28-Aug-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.0085;29-Aug-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.0833;30-Aug-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;9.9213;03-Sep-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;9.9401;04-Sep-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;9.9915;05-Sep-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.1006;06-Sep-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.1729;09-Sep-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.2153;11-Sep-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.1639;12-Sep-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.2530;13-Sep-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.1969;16-Sep-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.0081;17-Sep-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.0298;18-Sep-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;9.9220;19-Sep-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.4885;20-Sep-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.7955;23-Sep-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.7801;24-Sep-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.6162;25-Sep-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.7658;26-Sep-2019
+147184;ITI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01135;;10.7350;27-Sep-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.5280;01-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.5437;02-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.5348;03-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.5401;04-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.4229;05-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.2473;08-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.2482;09-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.1963;10-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.2409;11-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.2408;12-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.2472;15-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.3287;16-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.3370;17-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.2575;18-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.1141;19-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.0665;22-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.0981;23-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.0499;24-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.0589;25-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.0951;26-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.0097;29-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;9.9394;30-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;9.9647;31-Jul-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;9.8551;01-Aug-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;9.8939;02-Aug-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;9.7973;05-Aug-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;9.9248;06-Aug-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;9.8814;07-Aug-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;9.9890;08-Aug-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.0816;09-Aug-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;9.8959;13-Aug-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;9.9816;14-Aug-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.0179;16-Aug-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.0557;19-Aug-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.0267;20-Aug-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;9.9641;21-Aug-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;9.8112;22-Aug-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;9.8641;23-Aug-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.0604;26-Aug-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.1254;27-Aug-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.0608;28-Aug-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.0085;29-Aug-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.0833;30-Aug-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;9.9213;03-Sep-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;9.9401;04-Sep-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;9.9915;05-Sep-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.1006;06-Sep-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.1729;09-Sep-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.2153;11-Sep-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.1639;12-Sep-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.2530;13-Sep-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.1969;16-Sep-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.0081;17-Sep-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.0298;18-Sep-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;9.9220;19-Sep-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.4885;20-Sep-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.7955;23-Sep-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.7801;24-Sep-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.6162;25-Sep-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.7658;26-Sep-2019
+147185;ITI Multi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01143;INF00XX01150;10.7350;27-Sep-2019
+
+Open Ended Schemes ( Debt Scheme - Liquid Fund )
+
+
+ITI Mutual Fund
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1011.6275;30-Jun-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1011.7780;01-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1011.9298;02-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1012.0782;03-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1012.2249;04-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1012.3757;05-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1012.5265;06-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1012.6772;07-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1012.8947;08-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1013.0478;09-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1013.2007;10-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1013.3534;11-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1013.5056;12-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1013.6590;13-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1013.8123;14-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1013.9632;15-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1014.1130;16-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1014.2621;17-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1014.4125;18-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1014.5651;19-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1014.7183;20-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1014.8718;21-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1015.0254;22-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1015.1785;23-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1015.3299;24-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1015.4789;25-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1015.6300;26-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1015.7820;27-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1015.9339;28-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1016.0824;29-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1016.2323;30-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1016.3823;31-Jul-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1016.5325;01-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1016.6834;02-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1016.8344;03-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1016.9855;04-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1017.1356;05-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1017.2857;06-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1017.4357;07-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1017.5790;08-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1017.7249;09-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1017.8710;10-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1018.0171;11-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1018.1632;12-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1018.3078;13-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1018.4529;14-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1018.5988;15-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1018.7425;16-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1018.8869;17-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1019.0313;18-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1019.1730;19-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1019.3144;20-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1019.4561;21-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1019.5972;22-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1019.7388;23-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1019.8810;24-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1020.0232;25-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1020.1643;26-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1020.3054;27-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1020.4470;28-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1020.5890;29-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1020.7327;30-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1020.8767;31-Aug-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1021.0207;01-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1021.1648;02-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1021.3089;03-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1021.4528;04-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1021.5948;05-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1021.7407;06-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1021.8841;07-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1022.0276;08-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1022.1702;09-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1022.3134;10-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1022.4514;11-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1022.5896;12-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1022.7301;13-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1022.8710;14-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1023.0120;15-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1023.1538;16-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1023.2969;17-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1023.4383;18-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1023.5795;19-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1023.7233;20-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1023.8678;21-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1024.0123;22-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1024.1545;23-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1024.2963;24-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1024.4365;25-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1024.5775;26-Sep-2019
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1024.8056;27-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0098;30-Jun-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0102;01-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0106;02-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0110;03-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0114;04-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0118;05-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0122;06-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0126;07-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0130;08-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0133;09-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0137;10-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0140;11-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0144;12-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0148;13-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0152;14-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0156;15-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0160;16-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0164;17-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0168;18-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0172;19-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0176;20-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0289;21-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0506;22-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0589;23-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0683;24-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0771;25-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0839;26-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0917;27-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.0995;28-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.1079;29-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.1132;30-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.1210;31-Jul-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.1278;01-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.1352;02-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.1415;03-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.1493;04-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.1571;05-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.1639;06-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.1707;07-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.1775;08-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.1804;09-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.1842;10-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.1881;11-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.1919;12-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.1958;13-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.1986;14-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2025;15-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2063;16-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2091;17-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2120;18-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2148;19-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2157;20-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2166;21-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2174;22-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2183;23-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2192;24-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2210;25-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2229;26-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2238;27-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2241;28-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2245;29-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2264;30-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2292;31-Aug-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2320;01-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2349;02-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2377;03-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2406;04-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2434;05-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2452;06-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2471;07-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2499;08-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2528;09-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2546;10-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2565;11-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2568;12-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2572;13-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2576;14-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2580;15-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2583;16-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2587;17-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2591;18-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2594;19-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2613;20-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2651;21-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2679;22-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2708;23-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2726;24-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2735;25-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2738;26-Sep-2019
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1001.2742;27-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.6349;30-Jun-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.7848;01-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.9347;02-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.0819;03-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.2272;04-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.3771;05-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.5270;06-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.6769;07-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.8927;08-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1003.0446;09-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1003.1965;10-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.0013;11-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.1746;12-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.3262;13-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.4779;14-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.6269;15-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.7745;16-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.9222;17-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.0705;18-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.2215;19-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.3731;20-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.5248;21-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.6758;22-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.8274;23-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.9764;24-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1003.1234;25-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.0017;26-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.1222;27-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.2716;28-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.4177;29-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.5651;30-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.7131;31-Jul-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.8612;01-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.0100;02-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.1587;03-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.3074;04-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.4555;05-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.6036;06-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.7517;07-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.8931;08-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1003.0372;09-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1003.1813;10-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1003.3254;11-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1003.4695;12-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1003.6122;13-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.0020;14-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.1339;15-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.2750;16-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.4168;17-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.5586;18-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.6978;19-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.8363;20-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.9755;21-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.1146;22-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.2538;23-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.3930;24-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.5321;25-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.6706;26-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.0020;27-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.1165;28-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.2555;29-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.3964;30-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.5381;31-Aug-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.6797;01-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.8213;02-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.9629;03-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.1039;04-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.2435;05-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.3839;06-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.5248;07-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.6658;08-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.8054;09-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.9464;10-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1003.0821;11-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.0020;12-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.1464;13-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.2845;14-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.4226;15-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.5614;16-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.7015;17-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.8402;18-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.9783;19-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.1191;20-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.2605;21-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.4019;22-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.5413;23-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.6801;24-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1002.8175;25-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.0024;26-Sep-2019
+147160;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;Direct Plan;Fortnightly IDCW Option;INF00XX01341;INF00XX01317;1001.2432;27-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1011.6237;30-Jun-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1011.7743;01-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1011.9260;02-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1012.0746;03-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1012.2213;04-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1012.3720;05-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1012.5228;06-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1012.6736;07-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1012.8910;08-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1013.0440;09-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1013.1969;10-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1013.3496;11-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1013.5018;12-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1013.6550;13-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1013.8083;14-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1013.9592;15-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1014.1088;16-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1014.2579;17-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1014.4083;18-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1014.5609;19-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1014.7140;20-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1014.8674;21-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1015.0209;22-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1015.1740;23-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1015.3254;24-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1015.4744;25-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1015.6255;26-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1015.7773;27-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1015.9292;28-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1016.0776;29-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1016.2275;30-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1016.3774;31-Jul-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1016.5276;01-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1016.6784;02-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1016.8295;03-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1016.9805;04-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1017.1305;05-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1017.2806;06-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1017.4305;07-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1017.5738;08-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1017.7196;09-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1017.8656;10-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1018.0116;11-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1018.1576;12-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1018.3021;13-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1018.4478;14-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1018.5936;15-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1018.7373;16-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1018.8816;17-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1019.0259;18-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1019.1677;19-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1019.3090;20-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1019.4506;21-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1019.5917;22-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1019.7332;23-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1019.8753;24-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1020.0174;25-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1020.1585;26-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1020.2996;27-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1020.4411;28-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1020.5831;29-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1020.7266;30-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1020.8706;31-Aug-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1021.0146;01-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1021.1587;02-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1021.3029;03-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1021.4467;04-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1021.5887;05-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1021.7316;06-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1021.8750;07-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1022.0184;08-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1022.1612;09-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1022.3044;10-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1022.4424;11-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1022.5805;12-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1022.7210;13-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1022.8619;14-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1023.0029;15-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1023.1446;16-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1023.2878;17-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1023.4291;18-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1023.5702;19-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1023.7141;20-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1023.8586;21-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1024.0031;22-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1024.1453;23-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1024.2871;24-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1024.4273;25-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1024.5683;26-Sep-2019
+147157;ITI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01283;;1024.7964;27-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1001.6090;30-Jun-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1001.7582;01-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1001.9084;02-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1002.0553;03-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1002.2005;04-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1002.3498;05-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1002.4990;06-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1002.6483;07-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1002.8636;08-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1003.0148;09-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1003.1662;10-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1003.3174;11-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1003.4681;12-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1003.6198;13-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1003.7716;14-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1003.9210;15-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1004.0692;16-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1004.2168;17-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1004.3657;18-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1004.5167;19-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1004.6684;20-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1004.8203;21-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1004.9723;22-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1005.1238;23-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1005.2737;24-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1005.4212;25-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1001.0000;26-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1001.1487;27-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1001.2983;28-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1001.4446;29-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1001.5924;30-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1001.7401;31-Jul-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1001.8882;01-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1002.0368;02-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1002.1857;03-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1002.3345;04-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1002.4824;05-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1002.6303;06-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1002.7779;07-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1002.9191;08-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1003.0628;09-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1003.2067;10-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1003.3506;11-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1003.4945;12-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1003.6370;13-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1003.7800;14-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1003.9237;15-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1004.0653;16-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1004.2075;17-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1004.3497;18-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1004.4893;19-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1004.6286;20-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1004.7682;21-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1004.9070;22-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1005.0465;23-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1005.1866;24-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1005.3266;25-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1005.4656;26-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1001.0000;27-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1001.1384;28-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1001.2776;29-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1001.4185;30-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1001.5598;31-Aug-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1001.7011;01-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1001.8424;02-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1001.9839;03-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1002.1250;04-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1002.2643;05-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1002.4045;06-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1002.5452;07-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1002.6859;08-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1002.8256;09-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1002.9660;10-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1003.1015;11-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1003.2370;12-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1003.3748;13-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1003.5131;14-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1003.6513;15-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1003.7904;16-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1003.9308;17-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1004.0695;18-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1004.2079;19-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1004.3490;20-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1004.4908;21-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1004.6326;22-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1004.7721;23-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1004.9112;24-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1005.0487;25-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1001.0000;26-Sep-2019
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF00XX01358;INF00XX01325;1001.2227;27-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1011.4060;30-Jun-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1011.5540;01-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1011.7040;02-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1011.8500;03-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1011.9940;04-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1012.1420;05-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1012.2900;06-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1012.4380;07-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1012.6520;08-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1012.8040;09-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1012.9560;10-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1013.1080;11-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1013.2580;12-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1013.4100;13-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1013.5620;14-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1013.7120;15-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1013.8600;16-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1014.0080;17-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1014.1580;18-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1014.3100;19-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1014.4620;20-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1014.6140;21-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1014.7660;22-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1014.9147;23-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1015.0633;24-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1015.2094;25-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1015.3575;26-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1015.5063;27-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1015.6551;28-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1015.8006;29-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1015.9474;30-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1016.0942;31-Jul-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1016.2414;01-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1016.3891;02-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1016.5370;03-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1016.6849;04-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1016.8319;05-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1016.9789;06-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1017.1259;07-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1017.2662;08-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1017.4089;09-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1017.5519;10-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1017.6949;11-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1017.8378;12-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1017.9794;13-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1018.1217;14-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1018.2644;15-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1018.4052;16-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1018.5465;17-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1018.6879;18-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1018.8267;19-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1018.9649;20-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1019.1035;21-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1019.2415;22-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1019.3800;23-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1019.5190;24-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1019.6580;25-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1019.7960;26-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1019.9340;27-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1020.0726;28-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1020.2113;29-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1020.3519;30-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1020.4929;31-Aug-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1020.6340;01-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1020.7750;02-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1020.9163;03-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1021.0571;04-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1021.1962;05-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1021.3359;06-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1021.4762;07-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1021.6165;08-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1021.7563;09-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1021.8963;10-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1022.0313;11-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1022.1663;12-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1022.3035;13-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1022.4413;14-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1022.5790;15-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1022.7175;16-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1022.8576;17-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1022.9958;18-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1023.1341;19-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1023.2749;20-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1023.4165;21-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1023.5580;22-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1023.6973;23-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1023.8361;24-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1023.9733;25-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1024.1113;26-Sep-2019
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;Regular Plan;Annually IDCW Option;INF00XX01275;INF00XX01242;1024.3363;27-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;30-Jun-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;01-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;02-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;03-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;04-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;05-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;06-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;07-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;08-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;09-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;10-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;11-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;12-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;13-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;14-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;15-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;16-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;17-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;18-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;19-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;20-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;21-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;22-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;23-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;24-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;25-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;26-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;27-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;28-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;29-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;30-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;31-Jul-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;01-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;02-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;03-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;04-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;05-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;06-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;07-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;08-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;09-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;10-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;11-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;12-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;13-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;14-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;15-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;16-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;17-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;18-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;19-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;20-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;21-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;22-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;23-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;24-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;25-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;26-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;27-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;28-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;29-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;30-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;31-Aug-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;01-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;02-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;03-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;04-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;05-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;06-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;07-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;08-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;09-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;10-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;11-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;12-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;13-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;14-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;15-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;16-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;17-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;18-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;19-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;20-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;21-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;22-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;23-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;24-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;25-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;26-Sep-2019
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF00XX01200;1001.0000;27-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1011.4168;30-Jun-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1011.5644;01-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1011.7131;02-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1011.8583;03-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1012.0019;04-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1012.1496;05-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1012.2973;06-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1012.4449;07-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1012.6593;08-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1012.8092;09-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1012.9591;10-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1013.1087;11-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1013.2578;12-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1013.4080;13-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1013.5581;14-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1013.7059;15-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1013.8525;16-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1013.9985;17-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1014.1458;18-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1014.2952;19-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1014.4454;20-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1014.5957;21-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1014.7462;22-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1014.8961;23-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1015.0445;24-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1015.1904;25-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1015.3384;26-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1015.4871;27-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1015.6359;28-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1015.7812;29-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1015.9279;30-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1016.0748;31-Jul-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1016.2218;01-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1016.3695;02-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1016.5174;03-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1016.6653;04-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1016.8123;05-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1016.9592;06-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1017.1061;07-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1017.2463;08-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1017.3889;09-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1017.5319;10-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1017.6748;11-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1017.8177;12-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1017.9591;13-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1018.1012;14-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1018.2438;15-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1018.3844;16-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1018.5256;17-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1018.6668;18-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1018.8054;19-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1018.9436;20-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1019.0821;21-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1019.2201;22-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1019.3585;23-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1019.4975;24-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1019.6365;25-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1019.7744;26-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1019.9124;27-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1020.0508;28-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1020.1897;29-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1020.3301;30-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1020.4709;31-Aug-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1020.6118;01-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1020.7527;02-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1020.8938;03-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1021.0346;04-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1021.1734;05-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1021.3132;06-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1021.4535;07-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1021.5937;08-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1021.7333;09-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1021.8734;10-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1022.0083;11-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1022.1432;12-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1022.2806;13-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1022.4184;14-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1022.5562;15-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1022.6948;16-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1022.8348;17-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1022.9731;18-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1023.1111;19-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1023.2518;20-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1023.3931;21-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1023.5345;22-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1023.6736;23-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1023.8122;24-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1023.9492;25-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1024.0871;26-Sep-2019
+147153;ITI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01192;;1024.3119;27-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1001.5985;30-Jun-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1001.7446;01-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1001.8918;02-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1002.0356;03-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1002.1779;04-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1002.3241;05-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1002.4704;06-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1002.6167;07-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1002.8289;08-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1002.9775;09-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1003.1252;10-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1003.2733;11-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1003.4211;12-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1003.5698;13-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1003.7185;14-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1003.8649;15-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.0101;16-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.1547;17-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.3006;18-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.4486;19-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.5973;20-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.7461;21-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.8951;22-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1005.0436;23-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1005.1905;24-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1005.3350;25-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1001.0003;26-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1001.1472;27-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1001.2939;28-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1001.4365;29-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1001.5812;30-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1001.7259;31-Jul-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1001.8705;01-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1002.0161;02-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1002.1620;03-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1002.3078;04-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1002.4527;05-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1002.5975;06-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1002.7433;07-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1002.8815;08-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1003.0222;09-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1003.1631;10-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1003.3039;11-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1003.4448;12-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1003.5842;13-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1003.7243;14-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1003.8649;15-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.0035;16-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.1427;17-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.2819;18-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.4185;19-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.5547;20-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.6913;21-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.8260;22-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.9625;23-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1005.0995;24-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1005.2365;25-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1005.3724;26-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1001.0003;27-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1001.1367;28-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1001.2729;29-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1001.4108;30-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1001.5491;31-Aug-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1001.6873;01-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1001.8256;02-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1001.9641;03-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1002.1021;04-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1002.2385;05-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1002.3756;06-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1002.5133;07-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1002.6510;08-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1002.7879;09-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1002.9254;10-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1003.0577;11-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1003.1903;12-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1003.3251;13-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1003.4603;14-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1003.5956;15-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1003.7316;16-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1003.8690;17-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.0047;18-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.1401;19-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.2781;20-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.4169;21-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.5556;22-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.6920;23-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.8281;24-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1004.9626;25-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1001.0003;26-Sep-2019
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF00XX01267;INF00XX01234;1001.2201;27-Sep-2019
+
+Open Ended Schemes ( Hybrid Scheme - Arbitrage Fund )
+
+
+ITI Mutual Fund
+147617;ITI Arbitrage Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01440;;10.0187;12-Sep-2019
+147617;ITI Arbitrage Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01440;;10.0119;13-Sep-2019
+147617;ITI Arbitrage Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01440;;10.0179;16-Sep-2019
+147617;ITI Arbitrage Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01440;;10.0188;17-Sep-2019
+147617;ITI Arbitrage Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01440;;10.0182;18-Sep-2019
+147617;ITI Arbitrage Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01440;;10.0252;19-Sep-2019
+147617;ITI Arbitrage Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01440;;10.0225;20-Sep-2019
+147617;ITI Arbitrage Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01440;;10.0291;23-Sep-2019
+147617;ITI Arbitrage Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01440;;10.0184;24-Sep-2019
+147617;ITI Arbitrage Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01440;;10.0178;25-Sep-2019
+147617;ITI Arbitrage Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01440;;10.0251;26-Sep-2019
+147617;ITI Arbitrage Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF00XX01440;;10.0321;27-Sep-2019
+147615;ITI Arbitrage Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01457;INF00XX01465;10.0187;12-Sep-2019
+147615;ITI Arbitrage Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01457;INF00XX01465;10.0119;13-Sep-2019
+147615;ITI Arbitrage Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01457;INF00XX01465;10.0179;16-Sep-2019
+147615;ITI Arbitrage Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01457;INF00XX01465;10.0188;17-Sep-2019
+147615;ITI Arbitrage Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01457;INF00XX01465;10.0182;18-Sep-2019
+147615;ITI Arbitrage Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01457;INF00XX01465;10.0252;19-Sep-2019
+147615;ITI Arbitrage Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01457;INF00XX01465;10.0225;20-Sep-2019
+147615;ITI Arbitrage Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01457;INF00XX01465;10.0291;23-Sep-2019
+147615;ITI Arbitrage Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01457;INF00XX01465;10.0184;24-Sep-2019
+147615;ITI Arbitrage Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01457;INF00XX01465;10.0178;25-Sep-2019
+147615;ITI Arbitrage Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01457;INF00XX01465;10.0251;26-Sep-2019
+147615;ITI Arbitrage Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF00XX01457;INF00XX01465;10.0321;27-Sep-2019
+147618;ITI Arbitrage Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01416;;10.0179;12-Sep-2019
+147618;ITI Arbitrage Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01416;;10.0109;13-Sep-2019
+147618;ITI Arbitrage Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01416;;10.0163;16-Sep-2019
+147618;ITI Arbitrage Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01416;;10.0170;17-Sep-2019
+147618;ITI Arbitrage Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01416;;10.0161;18-Sep-2019
+147618;ITI Arbitrage Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01416;;10.0229;19-Sep-2019
+147618;ITI Arbitrage Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01416;;10.0200;20-Sep-2019
+147618;ITI Arbitrage Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01416;;10.0260;23-Sep-2019
+147618;ITI Arbitrage Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01416;;10.0151;24-Sep-2019
+147618;ITI Arbitrage Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01416;;10.0143;25-Sep-2019
+147618;ITI Arbitrage Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01416;;10.0214;26-Sep-2019
+147618;ITI Arbitrage Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF00XX01416;;10.0282;27-Sep-2019
+147616;ITI Arbitrage Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01424;INF00XX01432;10.0179;12-Sep-2019
+147616;ITI Arbitrage Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01424;INF00XX01432;10.0109;13-Sep-2019
+147616;ITI Arbitrage Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01424;INF00XX01432;10.0163;16-Sep-2019
+147616;ITI Arbitrage Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01424;INF00XX01432;10.0170;17-Sep-2019
+147616;ITI Arbitrage Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01424;INF00XX01432;10.0161;18-Sep-2019
+147616;ITI Arbitrage Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01424;INF00XX01432;10.0229;19-Sep-2019
+147616;ITI Arbitrage Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01424;INF00XX01432;10.0200;20-Sep-2019
+147616;ITI Arbitrage Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01424;INF00XX01432;10.0260;23-Sep-2019
+147616;ITI Arbitrage Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01424;INF00XX01432;10.0151;24-Sep-2019
+147616;ITI Arbitrage Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01424;INF00XX01432;10.0143;25-Sep-2019
+147616;ITI Arbitrage Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01424;INF00XX01432;10.0214;26-Sep-2019
+147616;ITI Arbitrage Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF00XX01424;INF00XX01432;10.0282;27-Sep-2019

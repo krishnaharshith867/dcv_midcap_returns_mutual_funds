@@ -1,0 +1,1035 @@
+Scheme Code;NAV Name;Plan;Option;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net Asset Value;Date
+
+Open Ended Schemes ( Money Market )
+
+
+Taurus Mutual Fund
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;24-Aug-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;25-Aug-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;26-Aug-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;27-Aug-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;28-Aug-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;31-Aug-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;01-Sep-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;02-Sep-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;03-Sep-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;04-Sep-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;07-Sep-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;08-Sep-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;09-Sep-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;10-Sep-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;11-Sep-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;15-Sep-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;16-Sep-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;17-Sep-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;18-Sep-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;21-Sep-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;22-Sep-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;23-Sep-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;24-Sep-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;25-Sep-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;28-Sep-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;29-Sep-2026
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;;;10.0000;30-Sep-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;24-Aug-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;25-Aug-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;26-Aug-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;27-Aug-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;28-Aug-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;31-Aug-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;01-Sep-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;02-Sep-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;03-Sep-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;04-Sep-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;07-Sep-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;08-Sep-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;09-Sep-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;10-Sep-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;11-Sep-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;15-Sep-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;16-Sep-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;17-Sep-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;18-Sep-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;21-Sep-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;22-Sep-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;23-Sep-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;24-Sep-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;25-Sep-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;28-Sep-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;29-Sep-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;Growth;;;10.0000;30-Sep-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7466;24-Aug-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7476;25-Aug-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7486;26-Aug-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7496;27-Aug-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7505;28-Aug-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7524;31-Aug-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7533;01-Sep-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7611;02-Sep-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7610;03-Sep-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7608;04-Sep-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7604;07-Sep-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7602;08-Sep-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7601;09-Sep-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7600;10-Sep-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7599;11-Sep-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7597;15-Sep-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7596;16-Sep-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7596;17-Sep-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7596;18-Sep-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7596;21-Sep-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7596;22-Sep-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7596;23-Sep-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7596;24-Sep-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7596;25-Sep-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7603;28-Sep-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7610;29-Sep-2026
+139617;Taurus Unclaimed Redemption - Growth;;Growth;;;17.7618;30-Sep-2026
+
+Open Ended Schemes ( Equity Scheme - Large Cap Fund )
+
+
+Taurus Mutual Fund
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;177.37;24-Aug-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;178.70;25-Aug-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;180.85;26-Aug-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;180.41;27-Aug-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;180.80;28-Aug-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;179.40;31-Aug-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;179.16;01-Sep-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;179.41;02-Sep-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;178.57;03-Sep-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;179.10;04-Sep-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;178.32;07-Sep-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;178.57;08-Sep-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;176.86;09-Sep-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;177.01;10-Sep-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;177.42;11-Sep-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;174.44;15-Sep-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;174.86;16-Sep-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;176.36;17-Sep-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;177.37;18-Sep-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;179.14;21-Sep-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;178.98;22-Sep-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;179.82;23-Sep-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;177.86;24-Sep-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;178.63;25-Sep-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;175.22;28-Sep-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;175.49;29-Sep-2026
+118870;Taurus Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BX3;;175.95;30-Sep-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;78.12;24-Aug-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;78.71;25-Aug-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;79.65;26-Aug-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;79.46;27-Aug-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;79.63;28-Aug-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;79.02;31-Aug-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;78.91;01-Sep-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;79.02;02-Sep-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;78.65;03-Sep-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;78.88;04-Sep-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;78.54;07-Sep-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;78.65;08-Sep-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;77.90;09-Sep-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;77.96;10-Sep-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;78.14;11-Sep-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;76.83;15-Sep-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;77.02;16-Sep-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;77.67;17-Sep-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;78.12;18-Sep-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;78.90;21-Sep-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;78.83;22-Sep-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;79.20;23-Sep-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;78.34;24-Sep-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;78.68;25-Sep-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;67.08;28-Sep-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;67.18;29-Sep-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BY1;INF044D01BZ8;67.36;30-Sep-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;167.27;24-Aug-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;168.52;25-Aug-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;170.56;26-Aug-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;170.14;27-Aug-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;170.50;28-Aug-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;169.18;31-Aug-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;168.95;01-Sep-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;169.18;02-Sep-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;168.39;03-Sep-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;168.89;04-Sep-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;168.15;07-Sep-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;168.39;08-Sep-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;166.77;09-Sep-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;166.92;10-Sep-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;167.30;11-Sep-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;164.49;15-Sep-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;164.89;16-Sep-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;166.29;17-Sep-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;167.25;18-Sep-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;168.91;21-Sep-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;168.76;22-Sep-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;169.55;23-Sep-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;167.71;24-Sep-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;168.43;25-Sep-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;165.21;28-Sep-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;165.47;29-Sep-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01773;;165.90;30-Sep-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;73.27;24-Aug-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;73.82;25-Aug-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;74.71;26-Aug-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;74.53;27-Aug-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;74.69;28-Aug-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;74.11;31-Aug-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;74.01;01-Sep-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;74.11;02-Sep-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;73.77;03-Sep-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;73.98;04-Sep-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;73.66;07-Sep-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;73.76;08-Sep-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;73.06;09-Sep-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;73.12;10-Sep-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;73.29;11-Sep-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;72.06;15-Sep-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;72.23;16-Sep-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;72.85;17-Sep-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;73.27;18-Sep-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;74.00;21-Sep-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;73.93;22-Sep-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;74.27;23-Sep-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;73.47;24-Sep-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;73.78;25-Sep-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;62.91;28-Sep-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;63.00;29-Sep-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01740;INF044D01757;63.17;30-Sep-2026
+
+Open Ended Schemes ( Equity Scheme - Mid Cap Fund )
+
+
+Taurus Mutual Fund
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;136.40;24-Aug-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;136.71;25-Aug-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;138.04;26-Aug-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;138.38;27-Aug-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;138.92;28-Aug-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;137.70;31-Aug-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;137.20;01-Sep-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;136.54;02-Sep-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;136.25;03-Sep-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;136.73;04-Sep-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;135.53;07-Sep-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;136.57;08-Sep-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;135.55;09-Sep-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;135.47;10-Sep-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;135.98;11-Sep-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;133.26;15-Sep-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;132.58;16-Sep-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;134.44;17-Sep-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;136.41;18-Sep-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;137.33;21-Sep-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;137.34;22-Sep-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;137.55;23-Sep-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;136.53;24-Sep-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;136.26;25-Sep-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;133.75;28-Sep-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;133.43;29-Sep-2026
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CA9;;134.34;30-Sep-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;121.17;24-Aug-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;121.44;25-Aug-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;122.62;26-Aug-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;122.93;27-Aug-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;123.40;28-Aug-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;122.32;31-Aug-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;121.88;01-Sep-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;121.29;02-Sep-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;121.04;03-Sep-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;121.46;04-Sep-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;120.39;07-Sep-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;121.32;08-Sep-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;120.42;09-Sep-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;120.34;10-Sep-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;120.79;11-Sep-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;118.38;15-Sep-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;117.77;16-Sep-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;119.43;17-Sep-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;121.18;18-Sep-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;122.00;21-Sep-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;122.00;22-Sep-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;122.19;23-Sep-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;121.29;24-Sep-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;121.04;25-Sep-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;106.28;28-Sep-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;106.02;29-Sep-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CB7;INF044D01CC5;106.75;30-Sep-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;128.56;24-Aug-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;128.84;25-Aug-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;130.10;26-Aug-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;130.42;27-Aug-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;130.92;28-Aug-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;129.77;31-Aug-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;129.30;01-Sep-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;128.67;02-Sep-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;128.40;03-Sep-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;128.85;04-Sep-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;127.71;07-Sep-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;128.69;08-Sep-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;127.73;09-Sep-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;127.65;10-Sep-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;128.13;11-Sep-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;125.56;15-Sep-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;124.92;16-Sep-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;126.68;17-Sep-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;128.53;18-Sep-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;129.39;21-Sep-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;129.40;22-Sep-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;129.59;23-Sep-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;128.63;24-Sep-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;128.37;25-Sep-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;126.00;28-Sep-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;125.70;29-Sep-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01815;;126.56;30-Sep-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;114.59;24-Aug-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;114.84;25-Aug-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;115.96;26-Aug-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;116.25;27-Aug-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;116.70;28-Aug-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;115.67;31-Aug-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;115.25;01-Sep-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;114.69;02-Sep-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;114.45;03-Sep-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;114.85;04-Sep-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;113.84;07-Sep-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;114.71;08-Sep-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;113.86;09-Sep-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;113.78;10-Sep-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;114.21;11-Sep-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;111.92;15-Sep-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;111.35;16-Sep-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;112.91;17-Sep-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;114.57;18-Sep-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;115.33;21-Sep-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;115.34;22-Sep-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;115.51;23-Sep-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;114.66;24-Sep-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;114.43;25-Sep-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;100.48;28-Sep-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;100.23;29-Sep-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01781;INF044D01799;100.92;30-Sep-2026
+
+Open Ended Schemes ( Equity Scheme - Sectoral/ Thematic )
+
+
+Taurus Mutual Fund
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;59.61;24-Aug-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;59.92;25-Aug-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;60.36;26-Aug-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;60.14;27-Aug-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;60.10;28-Aug-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;60.19;31-Aug-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;59.66;01-Sep-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;59.37;02-Sep-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;59.54;03-Sep-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;59.89;04-Sep-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;59.57;07-Sep-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;59.17;08-Sep-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;58.69;09-Sep-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;58.76;10-Sep-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;58.87;11-Sep-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;57.79;15-Sep-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;58.09;16-Sep-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;58.03;17-Sep-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;58.57;18-Sep-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;58.81;21-Sep-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;58.54;22-Sep-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;58.85;23-Sep-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;57.58;24-Sep-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;57.70;25-Sep-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;57.16;28-Sep-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;56.73;29-Sep-2026
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CN2;;57.01;30-Sep-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;58.92;24-Aug-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;59.23;25-Aug-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;59.67;26-Aug-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;59.44;27-Aug-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;59.41;28-Aug-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;59.50;31-Aug-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;58.97;01-Sep-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;58.68;02-Sep-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;58.85;03-Sep-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;59.20;04-Sep-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;58.88;07-Sep-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;58.49;08-Sep-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;58.02;09-Sep-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;58.08;10-Sep-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;58.19;11-Sep-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;57.13;15-Sep-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;57.42;16-Sep-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;57.36;17-Sep-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;57.89;18-Sep-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;58.13;21-Sep-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;57.86;22-Sep-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;58.16;23-Sep-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;56.91;24-Sep-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;57.04;25-Sep-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;56.50;28-Sep-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;56.07;29-Sep-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CO0;INF044D01CP7;56.35;30-Sep-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;52.90;24-Aug-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;53.18;25-Aug-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;53.57;26-Aug-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;53.37;27-Aug-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;53.34;28-Aug-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;53.42;31-Aug-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;52.94;01-Sep-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;52.68;02-Sep-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;52.83;03-Sep-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;53.14;04-Sep-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;52.86;07-Sep-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;52.50;08-Sep-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;52.08;09-Sep-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;52.13;10-Sep-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;52.23;11-Sep-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;51.27;15-Sep-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;51.54;16-Sep-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;51.48;17-Sep-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;51.95;18-Sep-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;52.16;21-Sep-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;51.92;22-Sep-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;52.20;23-Sep-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;51.07;24-Sep-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;51.18;25-Sep-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;50.69;28-Sep-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;50.31;29-Sep-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01BI4;;50.56;30-Sep-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;47.36;24-Aug-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;47.61;25-Aug-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;47.96;26-Aug-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;47.78;27-Aug-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;47.75;28-Aug-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;47.82;31-Aug-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;47.39;01-Sep-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;47.16;02-Sep-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;47.29;03-Sep-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;47.57;04-Sep-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;47.32;07-Sep-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;47.00;08-Sep-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;46.62;09-Sep-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;46.67;10-Sep-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;46.76;11-Sep-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;45.90;15-Sep-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;46.13;16-Sep-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;46.08;17-Sep-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;46.51;18-Sep-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;46.70;21-Sep-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;46.48;22-Sep-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;46.72;23-Sep-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;45.72;24-Sep-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;45.82;25-Sep-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;45.38;28-Sep-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;45.04;29-Sep-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01BJ2;INF044D01BK0;45.26;30-Sep-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;129.30;24-Aug-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;129.35;25-Aug-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;129.15;26-Aug-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;128.68;27-Aug-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;129.43;28-Aug-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;128.63;31-Aug-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;128.31;01-Sep-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;127.73;02-Sep-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;127.57;03-Sep-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;127.64;04-Sep-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;126.76;07-Sep-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;126.83;08-Sep-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;125.59;09-Sep-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;125.16;10-Sep-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;124.61;11-Sep-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;122.97;15-Sep-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;122.78;16-Sep-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;123.49;17-Sep-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;123.59;18-Sep-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;123.89;21-Sep-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;123.53;22-Sep-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;123.73;23-Sep-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;122.31;24-Sep-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;122.66;25-Sep-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;121.23;28-Sep-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;119.98;29-Sep-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;Regular Plan;Bonus;INF044D01823;;120.19;30-Sep-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;147.97;24-Aug-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;148.03;25-Aug-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;147.82;26-Aug-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;147.28;27-Aug-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;148.14;28-Aug-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;147.24;31-Aug-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;146.88;01-Sep-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;146.22;02-Sep-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;146.04;03-Sep-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;146.13;04-Sep-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;145.14;07-Sep-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;145.22;08-Sep-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;143.81;09-Sep-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;143.33;10-Sep-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;142.70;11-Sep-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;140.84;15-Sep-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;140.63;16-Sep-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;141.45;17-Sep-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;141.56;18-Sep-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;141.93;21-Sep-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;141.52;22-Sep-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;141.76;23-Sep-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;140.14;24-Sep-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;140.54;25-Sep-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;138.92;28-Sep-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;137.49;29-Sep-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CJ0;;137.73;30-Sep-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;99.33;24-Aug-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;99.37;25-Aug-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;99.23;26-Aug-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;98.87;27-Aug-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;99.44;28-Aug-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;98.84;31-Aug-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;98.60;01-Sep-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;98.15;02-Sep-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;98.03;03-Sep-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;98.09;04-Sep-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;97.43;07-Sep-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;97.49;08-Sep-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;96.54;09-Sep-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;96.21;10-Sep-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;95.79;11-Sep-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;94.54;15-Sep-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;94.40;16-Sep-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;94.95;17-Sep-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;95.03;18-Sep-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;95.28;21-Sep-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;95.00;22-Sep-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;95.16;23-Sep-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;94.07;24-Sep-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;94.34;25-Sep-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;91.61;28-Sep-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;90.66;29-Sep-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CK8;INF044D01CL6;90.82;30-Sep-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;129.32;24-Aug-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;129.37;25-Aug-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;129.18;26-Aug-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;128.70;27-Aug-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;129.45;28-Aug-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;128.65;31-Aug-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;128.33;01-Sep-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;127.75;02-Sep-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;127.59;03-Sep-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;127.66;04-Sep-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;126.78;07-Sep-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;126.85;08-Sep-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;125.61;09-Sep-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;125.18;10-Sep-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;124.63;11-Sep-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;122.99;15-Sep-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;122.80;16-Sep-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;123.51;17-Sep-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;123.61;18-Sep-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;123.91;21-Sep-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;123.55;22-Sep-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;123.75;23-Sep-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;122.33;24-Sep-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;122.68;25-Sep-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;121.25;28-Sep-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;120.00;29-Sep-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01864;;120.21;30-Sep-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;87.42;24-Aug-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;87.45;25-Aug-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;87.32;26-Aug-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;87.00;27-Aug-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;87.50;28-Aug-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;86.96;31-Aug-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;86.75;01-Sep-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;86.35;02-Sep-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;86.25;03-Sep-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;86.29;04-Sep-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;85.70;07-Sep-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;85.75;08-Sep-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;84.91;09-Sep-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;84.62;10-Sep-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;84.25;11-Sep-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;83.14;15-Sep-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;83.01;16-Sep-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;83.49;17-Sep-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;83.55;18-Sep-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;83.76;21-Sep-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;83.52;22-Sep-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;83.65;23-Sep-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;82.69;24-Sep-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;82.93;25-Sep-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;80.51;28-Sep-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;79.68;29-Sep-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01831;INF044D01849;79.82;30-Sep-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;48.49;24-Aug-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;48.51;25-Aug-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;48.44;26-Aug-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;48.27;27-Aug-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;48.55;28-Aug-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;48.25;31-Aug-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;48.13;01-Sep-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;47.92;02-Sep-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;47.86;03-Sep-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;47.89;04-Sep-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;47.56;07-Sep-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;47.59;08-Sep-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;47.13;09-Sep-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;46.97;10-Sep-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;46.76;11-Sep-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;46.16;15-Sep-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;46.09;16-Sep-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;46.36;17-Sep-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;46.39;18-Sep-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;46.51;21-Sep-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;46.38;22-Sep-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;46.45;23-Sep-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;45.92;24-Sep-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;46.06;25-Sep-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;45.53;28-Sep-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;45.06;29-Sep-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;Direct Plan;Bonus;INF044D01CM4;;45.14;30-Sep-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;68.47;24-Aug-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;68.90;25-Aug-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;68.60;26-Aug-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;68.03;27-Aug-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;68.20;28-Aug-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;67.59;31-Aug-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;67.10;01-Sep-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;67.14;02-Sep-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;67.26;03-Sep-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;67.43;04-Sep-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;67.37;07-Sep-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;67.16;08-Sep-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;66.91;09-Sep-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;66.76;10-Sep-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;66.36;11-Sep-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;65.28;15-Sep-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;64.97;16-Sep-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;65.34;17-Sep-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;65.96;18-Sep-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;65.83;21-Sep-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;65.88;22-Sep-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;66.41;23-Sep-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;65.46;24-Sep-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;65.50;25-Sep-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;64.16;28-Sep-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;63.71;29-Sep-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;Direct Plan;Growth;INF044D01CD3;;63.83;30-Sep-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;63.77;24-Aug-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;64.17;25-Aug-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;63.89;26-Aug-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;63.36;27-Aug-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;63.51;28-Aug-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;62.95;31-Aug-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;62.49;01-Sep-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;62.53;02-Sep-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;62.64;03-Sep-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;62.80;04-Sep-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;62.74;07-Sep-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;62.54;08-Sep-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;62.32;09-Sep-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;62.17;10-Sep-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;61.81;11-Sep-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;60.80;15-Sep-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;60.51;16-Sep-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;60.85;17-Sep-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;61.43;18-Sep-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;61.31;21-Sep-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;61.35;22-Sep-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;61.85;23-Sep-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;60.97;24-Sep-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;61.00;25-Sep-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;59.76;28-Sep-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;59.33;29-Sep-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CE1;INF044D01CF8;59.44;30-Sep-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;63.43;24-Aug-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;63.82;25-Aug-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;63.54;26-Aug-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;63.02;27-Aug-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;63.17;28-Aug-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;62.60;31-Aug-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;62.15;01-Sep-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;62.19;02-Sep-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;62.30;03-Sep-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;62.45;04-Sep-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;62.39;07-Sep-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;62.19;08-Sep-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;61.96;09-Sep-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;61.82;10-Sep-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;61.46;11-Sep-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;60.45;15-Sep-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;60.16;16-Sep-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;60.50;17-Sep-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;61.08;18-Sep-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;60.95;21-Sep-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;61.00;22-Sep-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;61.49;23-Sep-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;60.61;24-Sep-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;60.64;25-Sep-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;59.41;28-Sep-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;58.98;29-Sep-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01906;;59.09;30-Sep-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;59.57;24-Aug-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;59.94;25-Aug-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;59.68;26-Aug-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;59.19;27-Aug-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;59.33;28-Aug-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;58.80;31-Aug-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;58.37;01-Sep-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;58.41;02-Sep-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;58.51;03-Sep-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;58.65;04-Sep-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;58.60;07-Sep-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;58.42;08-Sep-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;58.20;09-Sep-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;58.07;10-Sep-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;57.72;11-Sep-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;56.78;15-Sep-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;56.51;16-Sep-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;56.83;17-Sep-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;57.37;18-Sep-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;57.25;21-Sep-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;57.29;22-Sep-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;57.76;23-Sep-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;56.93;24-Sep-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;56.96;25-Sep-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;55.80;28-Sep-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;55.40;29-Sep-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01872;INF044D01880;55.50;30-Sep-2026
+
+Open Ended Schemes ( Equity Scheme - ELSS )
+
+
+Taurus Mutual Fund
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;200.59;24-Aug-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;201.99;25-Aug-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;202.66;26-Aug-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;202.03;27-Aug-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;203.28;28-Aug-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;201.98;31-Aug-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;202.06;01-Sep-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;201.42;02-Sep-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;201.05;03-Sep-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;201.93;04-Sep-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;202.11;07-Sep-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;201.94;08-Sep-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;200.98;09-Sep-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;201.20;10-Sep-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;200.84;11-Sep-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;198.89;15-Sep-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;198.49;16-Sep-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;199.80;17-Sep-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;200.71;18-Sep-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;202.29;21-Sep-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;201.94;22-Sep-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;203.23;23-Sep-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;200.96;24-Sep-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;201.72;25-Sep-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;198.61;28-Sep-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;197.76;29-Sep-2026
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CG6;INF044D01AA3;198.41;30-Sep-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;92.45;24-Aug-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;93.09;25-Aug-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;93.40;26-Aug-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;93.11;27-Aug-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;93.69;28-Aug-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;93.09;31-Aug-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;93.12;01-Sep-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;92.83;02-Sep-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;92.66;03-Sep-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;93.06;04-Sep-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;93.15;07-Sep-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;93.07;08-Sep-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;92.63;09-Sep-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;92.73;10-Sep-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;92.56;11-Sep-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;91.66;15-Sep-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;91.48;16-Sep-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;92.09;17-Sep-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;92.50;18-Sep-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;93.23;21-Sep-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;93.07;22-Sep-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;93.66;23-Sep-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;92.62;24-Sep-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;92.97;25-Sep-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;91.53;28-Sep-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;91.14;29-Sep-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CH4;INF044D01CI2;91.44;30-Sep-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;182.77;24-Aug-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;184.04;25-Aug-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;184.65;26-Aug-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;184.08;27-Aug-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;185.21;28-Aug-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;184.02;31-Aug-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;184.08;01-Sep-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;183.50;02-Sep-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;183.16;03-Sep-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;183.95;04-Sep-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;184.11;07-Sep-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;183.95;08-Sep-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;183.07;09-Sep-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;183.28;10-Sep-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;182.95;11-Sep-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;181.16;15-Sep-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;180.79;16-Sep-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;181.98;17-Sep-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;182.81;18-Sep-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;184.24;21-Sep-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;183.91;22-Sep-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;185.08;23-Sep-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;183.01;24-Sep-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;183.70;25-Sep-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;180.86;28-Sep-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;180.09;29-Sep-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01AC9;;180.68;30-Sep-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;85.62;24-Aug-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;86.22;25-Aug-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;86.50;26-Aug-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;86.23;27-Aug-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;86.76;28-Aug-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;86.21;31-Aug-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;86.24;01-Sep-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;85.96;02-Sep-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;85.81;03-Sep-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;86.18;04-Sep-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;86.25;07-Sep-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;86.18;08-Sep-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;85.76;09-Sep-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;85.86;10-Sep-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;85.70;11-Sep-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;84.87;15-Sep-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;84.69;16-Sep-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;85.25;17-Sep-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;85.64;18-Sep-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;86.31;21-Sep-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;86.16;22-Sep-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;86.71;23-Sep-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;85.74;24-Sep-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;86.06;25-Sep-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;84.73;28-Sep-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;84.37;29-Sep-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01997;;84.64;30-Sep-2026
+
+Open Ended Schemes ( Other Scheme - Index Funds )
+
+
+Taurus Mutual Fund
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;49.2152;24-Aug-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;49.4469;25-Aug-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;49.1909;26-Aug-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;48.9549;27-Aug-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;49.1243;28-Aug-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;48.9294;31-Aug-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;48.8779;01-Sep-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;48.5994;02-Sep-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;48.5160;03-Sep-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;48.5716;04-Sep-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;48.3293;07-Sep-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;48.0378;08-Sep-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;47.6258;09-Sep-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;47.7181;10-Sep-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;47.5566;11-Sep-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;46.9885;15-Sep-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;47.1882;16-Sep-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;47.2944;17-Sep-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;47.4465;18-Sep-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;47.5804;21-Sep-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;47.4077;22-Sep-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;47.6447;23-Sep-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;46.8692;24-Sep-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;47.0244;25-Sep-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;46.2950;28-Sep-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;46.1648;29-Sep-2026
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01CQ5;;45.9935;30-Sep-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;46.0598;24-Aug-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;46.2767;25-Aug-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;46.0370;26-Aug-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;45.8162;27-Aug-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;45.9747;28-Aug-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;45.7924;31-Aug-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;45.7441;01-Sep-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;45.4835;02-Sep-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;45.4054;03-Sep-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;45.4574;04-Sep-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;45.2307;07-Sep-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;44.9579;08-Sep-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;44.5723;09-Sep-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;44.6587;10-Sep-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;44.5075;11-Sep-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;43.9758;15-Sep-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;44.1627;16-Sep-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;44.2621;17-Sep-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;44.4045;18-Sep-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;44.5298;21-Sep-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;44.3681;22-Sep-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;44.5899;23-Sep-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;43.8642;24-Sep-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;44.0094;25-Sep-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;41.1173;28-Sep-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;41.0016;29-Sep-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01CR3;INF044D01CS1;40.8496;30-Sep-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;46.0691;24-Aug-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;46.2856;25-Aug-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;46.0457;26-Aug-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;45.8245;27-Aug-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;45.9827;28-Aug-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;45.7993;31-Aug-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;45.7508;01-Sep-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;45.4898;02-Sep-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;45.4114;03-Sep-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;45.4631;04-Sep-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;45.2354;07-Sep-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;44.9622;08-Sep-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;44.5763;09-Sep-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;44.6624;10-Sep-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;44.5109;11-Sep-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;43.9779;15-Sep-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;44.1646;16-Sep-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;44.2636;17-Sep-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;44.4057;18-Sep-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;44.5301;21-Sep-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;44.3681;22-Sep-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;44.5896;23-Sep-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;43.8635;24-Sep-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;44.0085;25-Sep-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;43.3250;28-Sep-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;43.2028;29-Sep-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF044D01948;;43.0423;30-Sep-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;29.3728;24-Aug-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;29.5109;25-Aug-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;29.3579;26-Aug-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;29.2169;27-Aug-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;29.3177;28-Aug-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;29.2008;31-Aug-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;29.1699;01-Sep-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;29.0035;02-Sep-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;28.9535;03-Sep-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;28.9865;04-Sep-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;28.8413;07-Sep-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;28.6671;08-Sep-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;28.4210;09-Sep-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;28.4759;10-Sep-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;28.3794;11-Sep-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;28.0396;15-Sep-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;28.1585;16-Sep-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;28.2217;17-Sep-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;28.3123;18-Sep-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;28.3916;21-Sep-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;28.2883;22-Sep-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;28.4295;23-Sep-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;27.9666;24-Sep-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;28.0590;25-Sep-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;26.2136;28-Sep-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;26.1397;29-Sep-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01914;INF044D01922;26.0426;30-Sep-2026
+
+Open Ended Schemes ( Equity Scheme - Flexi Cap Fund )
+
+
+Taurus Mutual Fund
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;125.15;24-Aug-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;125.77;25-Aug-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;127.69;26-Aug-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;127.71;27-Aug-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;128.08;28-Aug-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;126.91;31-Aug-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;126.49;01-Sep-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;126.29;02-Sep-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;125.94;03-Sep-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;126.46;04-Sep-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;126.34;07-Sep-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;126.41;08-Sep-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;125.48;09-Sep-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;125.84;10-Sep-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;126.11;11-Sep-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;124.06;15-Sep-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;124.56;16-Sep-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;125.60;17-Sep-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;126.89;18-Sep-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;128.26;21-Sep-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;128.64;22-Sep-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;129.31;23-Sep-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;127.65;24-Sep-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;127.87;25-Sep-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;109.10;28-Sep-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;109.26;29-Sep-2026
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;Direct Plan;Income Distribution cum Capital Withdrawal;INF044D01BV7;INF044D01BW5;109.69;30-Sep-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;248.07;24-Aug-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;249.29;25-Aug-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;253.10;26-Aug-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;253.14;27-Aug-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;253.87;28-Aug-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;251.54;31-Aug-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;250.71;01-Sep-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;250.32;02-Sep-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;249.63;03-Sep-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;250.65;04-Sep-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;250.41;07-Sep-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;250.56;08-Sep-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;248.71;09-Sep-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;249.42;10-Sep-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;249.96;11-Sep-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;245.89;15-Sep-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;246.90;16-Sep-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;248.95;17-Sep-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;251.51;18-Sep-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;254.23;21-Sep-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;254.97;22-Sep-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;256.29;23-Sep-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;253.01;24-Sep-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;253.44;25-Sep-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;248.52;28-Sep-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;248.89;29-Sep-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF044D01BU9;;249.86;30-Sep-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;238.27;24-Aug-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;239.44;25-Aug-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;243.10;26-Aug-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;243.14;27-Aug-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;243.85;28-Aug-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;241.60;31-Aug-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;240.80;01-Sep-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;240.43;02-Sep-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;239.76;03-Sep-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;240.75;04-Sep-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;240.52;07-Sep-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;240.66;08-Sep-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;238.88;09-Sep-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;239.56;10-Sep-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;240.08;11-Sep-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;236.17;15-Sep-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;237.14;16-Sep-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;239.11;17-Sep-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;241.57;18-Sep-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;244.17;21-Sep-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;244.89;22-Sep-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;246.16;23-Sep-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;243.01;24-Sep-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;243.42;25-Sep-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;238.70;28-Sep-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;239.05;29-Sep-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;Regular Plan;Growth;INF044D01989;;239.98;30-Sep-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;115.63;24-Aug-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;116.20;25-Aug-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;117.97;26-Aug-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;117.99;27-Aug-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;118.33;28-Aug-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;117.24;31-Aug-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;116.86;01-Sep-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;116.67;02-Sep-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;116.35;03-Sep-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;116.83;04-Sep-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;116.72;07-Sep-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;116.79;08-Sep-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;115.92;09-Sep-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;116.25;10-Sep-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;116.50;11-Sep-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;114.61;15-Sep-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;115.08;16-Sep-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;116.03;17-Sep-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;117.23;18-Sep-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;118.49;21-Sep-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;118.84;22-Sep-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;119.46;23-Sep-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;117.93;24-Sep-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;118.12;25-Sep-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;112.35;28-Sep-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;112.52;29-Sep-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;Regular Plan;Income Distribution cum Capital Withdrawal;INF044D01955;INF044D01963;112.96;30-Sep-2026

@@ -1,0 +1,1567 @@
+Scheme Code;NAV Name;Plan;Option;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net Asset Value;Date
+
+Open Ended Schemes ( Income/Debt Oriented Schemes - Overnight Fund )
+
+
+Helios Mutual Fund
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;27-Aug-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;28-Aug-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;29-Aug-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;31-Aug-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;01-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;02-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;03-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;04-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;05-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.1428;06-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.2855;07-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;08-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;09-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;10-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;11-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;12-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.1420;13-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;14-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;15-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;16-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;17-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;18-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;19-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.1455;20-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;21-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;22-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;23-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;24-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;25-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;26-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.1459;27-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;28-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;29-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;30-Sep-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0004;01-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0007;02-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0008;03-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.1441;04-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0006;05-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0009;06-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0011;07-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0012;08-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;09-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;10-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.1482;11-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;12-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;13-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;14-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;15-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;16-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;17-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.1478;18-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;19-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;20-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.1502;21-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;22-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;23-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;24-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.1474;25-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;26-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;27-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;28-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;29-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;30-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;31-Oct-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.1498;01-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;02-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;03-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;04-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;05-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;06-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;07-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.1381;08-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;09-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;10-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;11-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;12-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;13-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;14-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.1463;15-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;16-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;17-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;18-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;19-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;20-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;21-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.1448;22-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;23-Nov-2025
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW;INF0R8701087;;1000.0000;24-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1121.2832;27-Aug-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1121.4402;28-Aug-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1121.5973;29-Aug-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1121.9153;31-Aug-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1122.0719;01-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1122.2272;02-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1122.3823;03-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1122.5405;04-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1122.7008;05-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1122.8612;06-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1123.0215;07-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1123.1818;08-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1123.3383;09-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1123.4945;10-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1123.6502;11-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1123.8078;12-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1123.9674;13-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1124.1270;14-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1124.2840;15-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1124.4429;16-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1124.6056;17-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1124.7674;18-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1124.9291;19-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1125.0927;20-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1125.2563;21-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1125.4218;22-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1125.5860;23-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1125.7511;24-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1125.9146;25-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1126.0781;26-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1126.2424;27-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1126.4068;28-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1126.5679;29-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1126.7312;30-Sep-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1126.8899;01-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1127.0506;02-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1127.2101;03-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1127.3716;04-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1127.5331;05-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1127.6913;06-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1127.8488;07-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1128.0072;08-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1128.1725;09-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1128.3376;10-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1128.5048;11-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1128.6719;12-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1128.8326;13-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1128.9927;14-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1129.1581;15-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1129.3199;16-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1129.4848;17-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1129.6517;18-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1129.8186;19-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1129.9862;20-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1130.1559;21-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1130.3255;22-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1130.4825;23-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1130.6471;24-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1130.8137;25-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1130.9802;26-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1131.1442;27-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1131.3079;28-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1131.4716;29-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1131.6371;30-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1131.8046;31-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1131.9742;01-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1132.1437;02-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1132.3008;03-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1132.4574;04-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1132.6161;05-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1132.7653;06-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1132.9197;07-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1133.0762;08-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1133.2327;09-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1133.3901;10-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1133.5448;11-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1133.6996;12-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1133.8534;13-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1134.0172;14-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1134.1831;15-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1134.3489;16-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1134.5044;17-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1134.6602;18-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1134.8158;19-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1134.9738;20-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1135.1363;21-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1135.3007;22-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1135.4652;23-Nov-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701079;;1135.6259;24-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;27-Aug-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;28-Aug-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;29-Aug-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;31-Aug-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;01-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;02-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;03-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;04-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;05-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.1415;06-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.2829;07-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;08-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;09-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;10-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;11-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;12-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.1406;13-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;14-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;15-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;16-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;17-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;18-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;19-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.1440;20-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;21-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;22-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;23-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;24-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;25-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;26-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.1446;27-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;28-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;29-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;30-Sep-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;01-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;02-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;03-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.1419;04-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;05-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;06-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;07-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;08-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;09-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;10-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.1468;11-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;12-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;13-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;14-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;15-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;16-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;17-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.1464;18-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;19-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;20-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.1488;21-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;22-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;23-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;24-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.1459;25-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;26-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;27-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;28-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;29-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;30-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;31-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.1484;01-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;02-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;03-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;04-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;05-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;06-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;07-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.1368;08-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;09-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;10-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;11-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;12-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;13-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;14-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.1449;15-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;16-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;17-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;18-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;19-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;20-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;21-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.1435;22-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;23-Nov-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW;INF0R8701103;;1000.0000;24-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1120.2493;27-Aug-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1120.4048;28-Aug-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1120.5602;29-Aug-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1120.8748;31-Aug-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1121.0297;01-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1121.1832;02-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1121.3367;03-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1121.4933;04-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1121.6519;05-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1121.8106;06-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1121.9692;07-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1122.1278;08-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1122.2826;09-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1122.4371;10-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1122.5911;11-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1122.7471;12-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1122.9050;13-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1123.0629;14-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1123.2181;15-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1123.3753;16-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1123.5363;17-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1123.6963;18-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1123.8563;19-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1124.0182;20-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1124.1802;21-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1124.3439;22-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1124.5064;23-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1124.6698;24-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1124.8317;25-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1124.9934;26-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1125.1561;27-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1125.3187;28-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1125.4782;29-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1125.6399;30-Sep-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1125.7969;01-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1125.9559;02-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1126.1137;03-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1126.2734;04-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1126.4332;05-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1126.5898;06-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1126.7456;07-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1126.9024;08-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1127.0659;09-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1127.2293;10-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1127.3948;11-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1127.5602;12-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1127.7192;13-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1127.8775;14-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1128.0413;15-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1128.2013;16-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1128.3645;17-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1128.5297;18-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1128.6948;19-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1128.8608;20-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1129.0288;21-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1129.1967;22-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1129.3520;23-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1129.5149;24-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1129.6797;25-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1129.8446;26-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1130.0068;27-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1130.1689;28-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1130.3309;29-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1130.4946;30-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1130.6604;31-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1130.8282;01-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1130.9961;02-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1131.1515;03-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1131.3063;04-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1131.4633;05-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1131.6108;06-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1131.7634;07-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1131.9182;08-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1132.0730;09-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1132.2287;10-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1132.3817;11-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1132.5347;12-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1132.6868;13-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1132.8489;14-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1133.0130;15-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1133.1772;16-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1133.3309;17-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1133.4850;18-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1133.6388;19-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1133.7951;20-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1133.9559;21-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1134.1186;22-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1134.2814;23-Nov-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701095;;1134.4403;24-Nov-2025
+
+Open Ended Schemes ( Equity Schemes - Large & Mid Cap Fund )
+
+
+Helios Mutual Fund
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;10.64;28-Aug-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;10.57;29-Aug-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;10.72;01-Sep-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;10.71;02-Sep-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;10.78;03-Sep-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;10.76;04-Sep-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;10.76;05-Sep-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;10.83;08-Sep-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;10.83;09-Sep-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;10.91;10-Sep-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;10.90;11-Sep-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;10.95;12-Sep-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;10.99;15-Sep-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.04;16-Sep-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.08;17-Sep-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.10;18-Sep-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.09;19-Sep-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.10;22-Sep-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.08;23-Sep-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;10.99;24-Sep-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;10.92;25-Sep-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;10.78;26-Sep-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;10.85;29-Sep-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;10.81;30-Sep-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;10.88;01-Oct-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;10.95;03-Oct-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.06;06-Oct-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.08;07-Oct-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.04;08-Oct-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.09;09-Oct-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.09;10-Oct-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.14;13-Oct-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.11;14-Oct-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.23;15-Oct-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.30;16-Oct-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.30;17-Oct-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.30;20-Oct-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.25;23-Oct-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.21;24-Oct-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.31;27-Oct-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.30;28-Oct-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.33;29-Oct-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.31;30-Oct-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.22;31-Oct-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.30;03-Nov-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.26;04-Nov-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.18;06-Nov-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.22;07-Nov-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.27;10-Nov-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.30;11-Nov-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.34;12-Nov-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.30;13-Nov-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.34;14-Nov-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.43;17-Nov-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.37;18-Nov-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.38;19-Nov-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.42;20-Nov-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.30;21-Nov-2025
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701269;;11.26;24-Nov-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;10.64;28-Aug-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;10.57;29-Aug-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;10.72;01-Sep-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;10.71;02-Sep-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;10.78;03-Sep-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;10.76;04-Sep-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;10.77;05-Sep-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;10.83;08-Sep-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;10.83;09-Sep-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;10.91;10-Sep-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;10.91;11-Sep-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;10.95;12-Sep-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;10.99;15-Sep-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.04;16-Sep-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.08;17-Sep-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.10;18-Sep-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.09;19-Sep-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.10;22-Sep-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.08;23-Sep-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;10.99;24-Sep-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;10.93;25-Sep-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;10.78;26-Sep-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;10.85;29-Sep-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;10.81;30-Sep-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;10.89;01-Oct-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;10.96;03-Oct-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.06;06-Oct-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.08;07-Oct-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.04;08-Oct-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.09;09-Oct-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.09;10-Oct-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.14;13-Oct-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.11;14-Oct-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.23;15-Oct-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.30;16-Oct-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.30;17-Oct-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.31;20-Oct-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.25;23-Oct-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.21;24-Oct-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.31;27-Oct-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.30;28-Oct-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.33;29-Oct-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.31;30-Oct-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.22;31-Oct-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.30;03-Nov-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.27;04-Nov-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.18;06-Nov-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.22;07-Nov-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.27;10-Nov-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.30;11-Nov-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.34;12-Nov-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.31;13-Nov-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.34;14-Nov-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.43;17-Nov-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.37;18-Nov-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.38;19-Nov-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.42;20-Nov-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.30;21-Nov-2025
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701277;INF0R8701285;11.26;24-Nov-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.49;28-Aug-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.42;29-Aug-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.57;01-Sep-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.56;02-Sep-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.63;03-Sep-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.62;04-Sep-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.62;05-Sep-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.68;08-Sep-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.68;09-Sep-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.76;10-Sep-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.75;11-Sep-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.80;12-Sep-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.83;15-Sep-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.88;16-Sep-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.92;17-Sep-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.94;18-Sep-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.93;19-Sep-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.94;22-Sep-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.92;23-Sep-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.83;24-Sep-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.76;25-Sep-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.62;26-Sep-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.69;29-Sep-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.65;30-Sep-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.72;01-Oct-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.79;03-Oct-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.89;06-Oct-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.91;07-Oct-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.87;08-Oct-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.92;09-Oct-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.92;10-Oct-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.97;13-Oct-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;10.94;14-Oct-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.05;15-Oct-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.12;16-Oct-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.12;17-Oct-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.13;20-Oct-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.07;23-Oct-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.03;24-Oct-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.13;27-Oct-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.12;28-Oct-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.14;29-Oct-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.12;30-Oct-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.04;31-Oct-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.11;03-Nov-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.08;04-Nov-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.00;06-Nov-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.03;07-Nov-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.08;10-Nov-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.11;11-Nov-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.15;12-Nov-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.11;13-Nov-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.15;14-Nov-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.24;17-Nov-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.18;18-Nov-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.19;19-Nov-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.22;20-Nov-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.10;21-Nov-2025
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701236;;11.06;24-Nov-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.49;28-Aug-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.42;29-Aug-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.57;01-Sep-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.56;02-Sep-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.63;03-Sep-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.61;04-Sep-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.61;05-Sep-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.68;08-Sep-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.68;09-Sep-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.75;10-Sep-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.75;11-Sep-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.79;12-Sep-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.82;15-Sep-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.88;16-Sep-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.91;17-Sep-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.94;18-Sep-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.93;19-Sep-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.93;22-Sep-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.92;23-Sep-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.82;24-Sep-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.76;25-Sep-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.61;26-Sep-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.69;29-Sep-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.65;30-Sep-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.72;01-Oct-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.79;03-Oct-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.89;06-Oct-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.91;07-Oct-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.86;08-Oct-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.92;09-Oct-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.91;10-Oct-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.97;13-Oct-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.93;14-Oct-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.05;15-Oct-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.12;16-Oct-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.12;17-Oct-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.12;20-Oct-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.06;23-Oct-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.03;24-Oct-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.12;27-Oct-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.11;28-Oct-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.14;29-Oct-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.12;30-Oct-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.04;31-Oct-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.11;03-Nov-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.08;04-Nov-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;10.99;06-Nov-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.03;07-Nov-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.07;10-Nov-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.11;11-Nov-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.14;12-Nov-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.11;13-Nov-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.14;14-Nov-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.23;17-Nov-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.18;18-Nov-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.18;19-Nov-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.22;20-Nov-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.10;21-Nov-2025
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701244;INF0R8701251;11.06;24-Nov-2025
+
+Open Ended Schemes ( Equity Schemes - Mid Cap Fund )
+
+
+Helios Mutual Fund
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.12;28-Aug-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.08;29-Aug-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.31;01-Sep-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.30;02-Sep-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.43;03-Sep-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.36;04-Sep-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.37;05-Sep-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.45;08-Sep-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.47;09-Sep-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.49;10-Sep-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.47;11-Sep-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.51;12-Sep-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.55;15-Sep-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.62;16-Sep-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.67;17-Sep-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.70;18-Sep-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.74;19-Sep-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.71;22-Sep-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.69;23-Sep-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.60;24-Sep-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.52;25-Sep-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.32;26-Sep-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.43;29-Sep-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.39;30-Sep-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.51;01-Oct-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.60;03-Oct-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.69;06-Oct-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.72;07-Oct-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.65;08-Oct-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.72;09-Oct-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.69;10-Oct-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.74;13-Oct-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.64;14-Oct-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.78;15-Oct-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.82;16-Oct-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.82;17-Oct-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.91;20-Oct-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.92;23-Oct-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.91;24-Oct-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;13.00;27-Oct-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;13.05;28-Oct-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;13.02;29-Oct-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;13.08;30-Oct-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;13.00;31-Oct-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;13.10;03-Nov-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;13.06;04-Nov-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.90;06-Nov-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.95;07-Nov-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.99;10-Nov-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;13.01;11-Nov-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;13.08;12-Nov-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;13.03;13-Nov-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;13.06;14-Nov-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;13.20;17-Nov-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;13.15;18-Nov-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;13.14;19-Nov-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;13.15;20-Nov-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.99;21-Nov-2025
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701327;;12.98;24-Nov-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.13;28-Aug-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.08;29-Aug-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.31;01-Sep-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.30;02-Sep-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.43;03-Sep-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.37;04-Sep-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.37;05-Sep-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.45;08-Sep-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.47;09-Sep-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.49;10-Sep-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.47;11-Sep-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.51;12-Sep-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.56;15-Sep-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.63;16-Sep-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.67;17-Sep-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.70;18-Sep-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.75;19-Sep-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.71;22-Sep-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.69;23-Sep-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.60;24-Sep-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.52;25-Sep-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.32;26-Sep-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.44;29-Sep-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.39;30-Sep-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.51;01-Oct-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.61;03-Oct-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.69;06-Oct-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.72;07-Oct-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.66;08-Oct-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.72;09-Oct-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.69;10-Oct-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.74;13-Oct-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.65;14-Oct-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.78;15-Oct-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.82;16-Oct-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.82;17-Oct-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.91;20-Oct-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.92;23-Oct-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.91;24-Oct-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;13.00;27-Oct-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;13.06;28-Oct-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;13.02;29-Oct-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;13.08;30-Oct-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;13.00;31-Oct-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;13.10;03-Nov-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;13.06;04-Nov-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.90;06-Nov-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.95;07-Nov-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.99;10-Nov-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;13.02;11-Nov-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;13.08;12-Nov-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;13.04;13-Nov-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;13.07;14-Nov-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;13.20;17-Nov-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;13.16;18-Nov-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;13.14;19-Nov-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;13.15;20-Nov-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;13.00;21-Nov-2025
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701335;INF0R8701343;12.98;24-Nov-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.04;28-Aug-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;11.99;29-Aug-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.22;01-Sep-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.21;02-Sep-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.34;03-Sep-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.27;04-Sep-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.28;05-Sep-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.35;08-Sep-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.38;09-Sep-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.40;10-Sep-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.38;11-Sep-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.41;12-Sep-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.46;15-Sep-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.53;16-Sep-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.57;17-Sep-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.59;18-Sep-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.64;19-Sep-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.61;22-Sep-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.59;23-Sep-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.49;24-Sep-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.42;25-Sep-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.22;26-Sep-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.33;29-Sep-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.29;30-Sep-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.40;01-Oct-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.50;03-Oct-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.58;06-Oct-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.61;07-Oct-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.54;08-Oct-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.60;09-Oct-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.57;10-Oct-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.63;13-Oct-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.53;14-Oct-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.66;15-Oct-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.70;16-Oct-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.70;17-Oct-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.79;20-Oct-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.79;23-Oct-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.79;24-Oct-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.88;27-Oct-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.93;28-Oct-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.89;29-Oct-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.95;30-Oct-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.87;31-Oct-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.97;03-Nov-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.93;04-Nov-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.77;06-Nov-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.82;07-Nov-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.86;10-Nov-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.88;11-Nov-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.94;12-Nov-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.90;13-Nov-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.93;14-Nov-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;13.06;17-Nov-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;13.01;18-Nov-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;13.00;19-Nov-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;13.01;20-Nov-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.86;21-Nov-2025
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;Regular Plan;Growth;INF0R8701293;;12.84;24-Nov-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.04;28-Aug-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;11.99;29-Aug-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.22;01-Sep-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.21;02-Sep-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.34;03-Sep-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.27;04-Sep-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.28;05-Sep-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.35;08-Sep-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.38;09-Sep-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.40;10-Sep-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.38;11-Sep-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.41;12-Sep-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.46;15-Sep-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.52;16-Sep-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.56;17-Sep-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.59;18-Sep-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.64;19-Sep-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.61;22-Sep-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.59;23-Sep-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.49;24-Sep-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.42;25-Sep-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.22;26-Sep-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.33;29-Sep-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.29;30-Sep-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.40;01-Oct-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.49;03-Oct-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.58;06-Oct-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.61;07-Oct-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.54;08-Oct-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.60;09-Oct-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.57;10-Oct-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.62;13-Oct-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.53;14-Oct-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.66;15-Oct-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.70;16-Oct-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.70;17-Oct-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.79;20-Oct-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.79;23-Oct-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.79;24-Oct-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.88;27-Oct-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.93;28-Oct-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.89;29-Oct-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.95;30-Oct-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.87;31-Oct-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.97;03-Nov-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.93;04-Nov-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.77;06-Nov-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.82;07-Nov-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.86;10-Nov-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.88;11-Nov-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.94;12-Nov-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.90;13-Nov-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.93;14-Nov-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;13.06;17-Nov-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;13.01;18-Nov-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;13.00;19-Nov-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;13.01;20-Nov-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.86;21-Nov-2025
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701301;INF0R8701319;12.84;24-Nov-2025
+
+Open Ended Schemes ( Equity Schemes - Flexi Cap Fund )
+
+
+Helios Mutual Fund
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;14.69;28-Aug-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;14.63;29-Aug-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;14.92;01-Sep-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;14.92;02-Sep-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.09;03-Sep-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.04;04-Sep-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.05;05-Sep-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.15;08-Sep-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.16;09-Sep-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.20;10-Sep-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.19;11-Sep-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.23;12-Sep-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.26;15-Sep-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.35;16-Sep-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.43;17-Sep-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.48;18-Sep-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.50;19-Sep-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.49;22-Sep-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.46;23-Sep-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.35;24-Sep-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.23;25-Sep-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.00;26-Sep-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.08;29-Sep-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.03;30-Sep-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.16;01-Oct-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.27;03-Oct-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.39;06-Oct-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.44;07-Oct-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.38;08-Oct-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.44;09-Oct-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.45;10-Oct-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.51;13-Oct-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.43;14-Oct-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.60;15-Oct-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.69;16-Oct-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.71;17-Oct-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.76;20-Oct-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.72;23-Oct-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.70;24-Oct-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.82;27-Oct-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.88;28-Oct-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.91;29-Oct-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.89;30-Oct-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.74;31-Oct-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.83;03-Nov-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.74;04-Nov-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.56;06-Nov-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.59;07-Nov-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.61;10-Nov-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.70;11-Nov-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.76;12-Nov-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.73;13-Nov-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.77;14-Nov-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.92;17-Nov-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.84;18-Nov-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.82;19-Nov-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.87;20-Nov-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.69;21-Nov-2025
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701046;;15.61;24-Nov-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;14.69;28-Aug-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;14.63;29-Aug-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;14.92;01-Sep-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;14.92;02-Sep-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.09;03-Sep-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.04;04-Sep-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.05;05-Sep-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.15;08-Sep-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.16;09-Sep-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.20;10-Sep-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.18;11-Sep-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.22;12-Sep-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.26;15-Sep-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.35;16-Sep-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.43;17-Sep-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.48;18-Sep-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.50;19-Sep-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.49;22-Sep-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.45;23-Sep-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.35;24-Sep-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.22;25-Sep-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;14.99;26-Sep-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.08;29-Sep-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.03;30-Sep-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.15;01-Oct-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.26;03-Oct-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.39;06-Oct-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.44;07-Oct-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.37;08-Oct-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.44;09-Oct-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.45;10-Oct-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.50;13-Oct-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.43;14-Oct-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.60;15-Oct-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.69;16-Oct-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.71;17-Oct-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.75;20-Oct-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.71;23-Oct-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.70;24-Oct-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.82;27-Oct-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.88;28-Oct-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.91;29-Oct-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.89;30-Oct-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.74;31-Oct-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.83;03-Nov-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.74;04-Nov-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.56;06-Nov-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.59;07-Nov-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.61;10-Nov-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.70;11-Nov-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.76;12-Nov-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.73;13-Nov-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.77;14-Nov-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.91;17-Nov-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.84;18-Nov-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.82;19-Nov-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.87;20-Nov-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.69;21-Nov-2025
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701053;INF0R8701061;15.61;24-Nov-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.30;28-Aug-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.25;29-Aug-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.52;01-Sep-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.53;02-Sep-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.69;03-Sep-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.64;04-Sep-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.65;05-Sep-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.75;08-Sep-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.76;09-Sep-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.79;10-Sep-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.78;11-Sep-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.82;12-Sep-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.85;15-Sep-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.94;16-Sep-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.01;17-Sep-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.06;18-Sep-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.08;19-Sep-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.07;22-Sep-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.04;23-Sep-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.93;24-Sep-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.81;25-Sep-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.59;26-Sep-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.67;29-Sep-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.62;30-Sep-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.74;01-Oct-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.85;03-Oct-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.97;06-Oct-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.01;07-Oct-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;14.95;08-Oct-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.01;09-Oct-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.02;10-Oct-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.07;13-Oct-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.00;14-Oct-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.16;15-Oct-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.25;16-Oct-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.27;17-Oct-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.31;20-Oct-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.27;23-Oct-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.25;24-Oct-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.37;27-Oct-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.43;28-Oct-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.46;29-Oct-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.44;30-Oct-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.29;31-Oct-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.38;03-Nov-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.29;04-Nov-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.11;06-Nov-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.14;07-Nov-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.16;10-Nov-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.24;11-Nov-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.30;12-Nov-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.27;13-Nov-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.31;14-Nov-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.45;17-Nov-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.38;18-Nov-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.36;19-Nov-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.40;20-Nov-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.23;21-Nov-2025
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701012;;15.15;24-Nov-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.30;28-Aug-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.25;29-Aug-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.53;01-Sep-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.53;02-Sep-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.70;03-Sep-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.64;04-Sep-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.65;05-Sep-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.75;08-Sep-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.76;09-Sep-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.79;10-Sep-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.78;11-Sep-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.82;12-Sep-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.86;15-Sep-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.94;16-Sep-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.02;17-Sep-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.07;18-Sep-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.08;19-Sep-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.07;22-Sep-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.04;23-Sep-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.93;24-Sep-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.81;25-Sep-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.59;26-Sep-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.67;29-Sep-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.62;30-Sep-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.74;01-Oct-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.85;03-Oct-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.97;06-Oct-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.01;07-Oct-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;14.95;08-Oct-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.01;09-Oct-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.02;10-Oct-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.07;13-Oct-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.00;14-Oct-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.17;15-Oct-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.26;16-Oct-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.27;17-Oct-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.31;20-Oct-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.27;23-Oct-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.26;24-Oct-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.37;27-Oct-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.43;28-Oct-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.46;29-Oct-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.44;30-Oct-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.29;31-Oct-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.38;03-Nov-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.29;04-Nov-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.11;06-Nov-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.14;07-Nov-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.16;10-Nov-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.25;11-Nov-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.30;12-Nov-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.27;13-Nov-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.31;14-Nov-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.45;17-Nov-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.38;18-Nov-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.36;19-Nov-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.41;20-Nov-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.23;21-Nov-2025
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701020;INF0R8701038;15.15;24-Nov-2025
+
+Open Ended Schemes ( Equity Schemes - Sectoral Fund )
+
+
+Helios Mutual Fund
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.35;28-Aug-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.26;29-Aug-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.40;01-Sep-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.37;02-Sep-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.47;03-Sep-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.47;04-Sep-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.49;05-Sep-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.54;08-Sep-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.52;09-Sep-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.63;10-Sep-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.62;11-Sep-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.70;12-Sep-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.73;15-Sep-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.76;16-Sep-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.79;17-Sep-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.84;18-Sep-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.78;19-Sep-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.80;22-Sep-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.80;23-Sep-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.72;24-Sep-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.64;25-Sep-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.48;26-Sep-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.52;29-Sep-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.51;30-Sep-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.64;01-Oct-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.68;03-Oct-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.82;06-Oct-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.85;07-Oct-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.79;08-Oct-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.88;09-Oct-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.87;10-Oct-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.94;13-Oct-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.92;14-Oct-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.09;15-Oct-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.14;16-Oct-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.17;17-Oct-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.19;20-Oct-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.17;23-Oct-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.14;24-Oct-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.22;27-Oct-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.24;28-Oct-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.18;29-Oct-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.15;30-Oct-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.04;31-Oct-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.13;03-Nov-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.06;04-Nov-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;11.99;06-Nov-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.09;07-Nov-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.16;10-Nov-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.11;11-Nov-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.12;12-Nov-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.14;13-Nov-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.18;14-Nov-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.28;17-Nov-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.20;18-Nov-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.22;19-Nov-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.28;20-Nov-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.13;21-Nov-2025
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0R8701202;;12.10;24-Nov-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.35;28-Aug-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.26;29-Aug-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.40;01-Sep-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.37;02-Sep-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.47;03-Sep-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.47;04-Sep-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.49;05-Sep-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.54;08-Sep-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.52;09-Sep-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.63;10-Sep-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.62;11-Sep-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.70;12-Sep-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.73;15-Sep-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.76;16-Sep-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.79;17-Sep-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.84;18-Sep-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.78;19-Sep-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.80;22-Sep-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.80;23-Sep-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.72;24-Sep-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.64;25-Sep-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.48;26-Sep-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.52;29-Sep-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.51;30-Sep-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.64;01-Oct-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.68;03-Oct-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.82;06-Oct-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.85;07-Oct-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.79;08-Oct-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.88;09-Oct-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.87;10-Oct-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.94;13-Oct-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.92;14-Oct-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.09;15-Oct-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.14;16-Oct-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.17;17-Oct-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.19;20-Oct-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.17;23-Oct-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.14;24-Oct-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.22;27-Oct-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.24;28-Oct-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.19;29-Oct-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.15;30-Oct-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.04;31-Oct-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.13;03-Nov-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.06;04-Nov-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;11.99;06-Nov-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.09;07-Nov-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.16;10-Nov-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.11;11-Nov-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.12;12-Nov-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.14;13-Nov-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.18;14-Nov-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.28;17-Nov-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.20;18-Nov-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.22;19-Nov-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.28;20-Nov-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.13;21-Nov-2025
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;Direct Plan;IDCW;INF0R8701210;INF0R8701228;12.10;24-Nov-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.13;28-Aug-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.05;29-Aug-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.19;01-Sep-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.15;02-Sep-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.25;03-Sep-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.25;04-Sep-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.27;05-Sep-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.32;08-Sep-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.30;09-Sep-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.41;10-Sep-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.39;11-Sep-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.47;12-Sep-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.50;15-Sep-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.53;16-Sep-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.56;17-Sep-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.61;18-Sep-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.55;19-Sep-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.57;22-Sep-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.57;23-Sep-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.49;24-Sep-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.41;25-Sep-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.25;26-Sep-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.29;29-Sep-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.28;30-Sep-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.41;01-Oct-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.45;03-Oct-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.58;06-Oct-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.61;07-Oct-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.55;08-Oct-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.64;09-Oct-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.63;10-Oct-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.69;13-Oct-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.68;14-Oct-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.84;15-Oct-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.89;16-Oct-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.92;17-Oct-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.93;20-Oct-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.91;23-Oct-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.89;24-Oct-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.96;27-Oct-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.98;28-Oct-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.93;29-Oct-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.89;30-Oct-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.79;31-Oct-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.87;03-Nov-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.80;04-Nov-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.73;06-Nov-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.83;07-Nov-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.89;10-Nov-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.85;11-Nov-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.85;12-Nov-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.87;13-Nov-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.91;14-Nov-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;12.01;17-Nov-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.93;18-Nov-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.95;19-Nov-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;12.01;20-Nov-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.86;21-Nov-2025
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0R8701178;;11.83;24-Nov-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.14;28-Aug-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.05;29-Aug-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.19;01-Sep-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.15;02-Sep-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.25;03-Sep-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.25;04-Sep-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.27;05-Sep-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.32;08-Sep-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.30;09-Sep-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.41;10-Sep-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.39;11-Sep-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.48;12-Sep-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.50;15-Sep-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.53;16-Sep-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.56;17-Sep-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.61;18-Sep-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.55;19-Sep-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.57;22-Sep-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.57;23-Sep-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.49;24-Sep-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.41;25-Sep-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.25;26-Sep-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.29;29-Sep-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.28;30-Sep-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.41;01-Oct-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.45;03-Oct-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.58;06-Oct-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.61;07-Oct-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.55;08-Oct-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.64;09-Oct-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.63;10-Oct-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.69;13-Oct-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.68;14-Oct-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.84;15-Oct-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.89;16-Oct-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.92;17-Oct-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.93;20-Oct-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.91;23-Oct-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.89;24-Oct-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.97;27-Oct-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.98;28-Oct-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.93;29-Oct-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.90;30-Oct-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.79;31-Oct-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.87;03-Nov-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.81;04-Nov-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.73;06-Nov-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.83;07-Nov-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.89;10-Nov-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.85;11-Nov-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.85;12-Nov-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.88;13-Nov-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.92;14-Nov-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;12.01;17-Nov-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.93;18-Nov-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.95;19-Nov-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;12.01;20-Nov-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.86;21-Nov-2025
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;Regular Plan;IDCW;INF0R8701186;INF0R8701194;11.84;24-Nov-2025
+
+Open Ended Schemes ( Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation )
+
+
+Helios Mutual Fund
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.27;28-Aug-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.22;29-Aug-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.35;01-Sep-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.35;02-Sep-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.41;03-Sep-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.38;04-Sep-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.39;05-Sep-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.44;08-Sep-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.44;09-Sep-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.49;10-Sep-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.50;11-Sep-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.54;12-Sep-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.55;15-Sep-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.60;16-Sep-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.63;17-Sep-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.66;18-Sep-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.64;19-Sep-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.66;22-Sep-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.67;23-Sep-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.60;24-Sep-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.54;25-Sep-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.44;26-Sep-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.51;29-Sep-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.51;30-Sep-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.59;01-Oct-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.64;03-Oct-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.73;06-Oct-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.74;07-Oct-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.72;08-Oct-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.76;09-Oct-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.75;10-Oct-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.78;13-Oct-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.74;14-Oct-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.83;15-Oct-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.89;16-Oct-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.90;17-Oct-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.93;20-Oct-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.88;23-Oct-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.86;24-Oct-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.93;27-Oct-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.92;28-Oct-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.98;29-Oct-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.97;30-Oct-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.90;31-Oct-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.97;03-Nov-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.93;04-Nov-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.87;06-Nov-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.90;07-Nov-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.93;10-Nov-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.96;11-Nov-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.96;12-Nov-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.94;13-Nov-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.97;14-Nov-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;12.04;17-Nov-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.99;18-Nov-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.99;19-Nov-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;12.02;20-Nov-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.94;21-Nov-2025
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF0R8701145;;11.89;24-Nov-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.28;28-Aug-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.22;29-Aug-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.35;01-Sep-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.35;02-Sep-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.41;03-Sep-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.38;04-Sep-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.39;05-Sep-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.45;08-Sep-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.44;09-Sep-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.49;10-Sep-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.51;11-Sep-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.54;12-Sep-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.55;15-Sep-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.60;16-Sep-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.63;17-Sep-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.66;18-Sep-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.65;19-Sep-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.66;22-Sep-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.67;23-Sep-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.60;24-Sep-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.54;25-Sep-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.44;26-Sep-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.51;29-Sep-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.51;30-Sep-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.59;01-Oct-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.64;03-Oct-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.73;06-Oct-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.74;07-Oct-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.72;08-Oct-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.76;09-Oct-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.75;10-Oct-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.78;13-Oct-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.74;14-Oct-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.84;15-Oct-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.89;16-Oct-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.90;17-Oct-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.93;20-Oct-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.88;23-Oct-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.86;24-Oct-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.93;27-Oct-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.92;28-Oct-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.98;29-Oct-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.97;30-Oct-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.90;31-Oct-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.97;03-Nov-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.94;04-Nov-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.87;06-Nov-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.91;07-Nov-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.93;10-Nov-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.96;11-Nov-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.96;12-Nov-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.95;13-Nov-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.97;14-Nov-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;12.04;17-Nov-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;12.00;18-Nov-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.99;19-Nov-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;12.02;20-Nov-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.94;21-Nov-2025
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;Direct Plan;IDCW;INF0R8701152;INF0R8701160;11.90;24-Nov-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.02;28-Aug-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;10.97;29-Aug-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.09;01-Sep-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.09;02-Sep-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.15;03-Sep-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.12;04-Sep-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.13;05-Sep-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.18;08-Sep-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.17;09-Sep-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.22;10-Sep-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.24;11-Sep-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.27;12-Sep-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.28;15-Sep-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.32;16-Sep-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.36;17-Sep-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.39;18-Sep-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.37;19-Sep-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.38;22-Sep-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.39;23-Sep-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.32;24-Sep-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.27;25-Sep-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.17;26-Sep-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.23;29-Sep-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.23;30-Sep-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.31;01-Oct-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.36;03-Oct-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.44;06-Oct-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.45;07-Oct-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.43;08-Oct-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.47;09-Oct-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.46;10-Oct-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.49;13-Oct-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.45;14-Oct-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.54;15-Oct-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.59;16-Oct-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.61;17-Oct-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.63;20-Oct-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.58;23-Oct-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.56;24-Oct-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.63;27-Oct-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.62;28-Oct-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.68;29-Oct-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.67;30-Oct-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.60;31-Oct-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.67;03-Nov-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.63;04-Nov-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.57;06-Nov-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.60;07-Nov-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.62;10-Nov-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.65;11-Nov-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.65;12-Nov-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.64;13-Nov-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.66;14-Nov-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.73;17-Nov-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.68;18-Nov-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.68;19-Nov-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.71;20-Nov-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.62;21-Nov-2025
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF0R8701111;;11.58;24-Nov-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.02;28-Aug-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;10.97;29-Aug-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.09;01-Sep-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.09;02-Sep-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.15;03-Sep-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.12;04-Sep-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.13;05-Sep-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.18;08-Sep-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.17;09-Sep-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.22;10-Sep-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.24;11-Sep-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.27;12-Sep-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.29;15-Sep-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.33;16-Sep-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.36;17-Sep-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.39;18-Sep-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.37;19-Sep-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.38;22-Sep-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.39;23-Sep-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.32;24-Sep-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.27;25-Sep-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.17;26-Sep-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.23;29-Sep-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.23;30-Sep-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.31;01-Oct-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.36;03-Oct-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.44;06-Oct-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.46;07-Oct-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.44;08-Oct-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.47;09-Oct-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.47;10-Oct-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.49;13-Oct-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.45;14-Oct-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.54;15-Oct-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.60;16-Oct-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.61;17-Oct-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.64;20-Oct-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.58;23-Oct-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.57;24-Oct-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.63;27-Oct-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.62;28-Oct-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.68;29-Oct-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.67;30-Oct-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.60;31-Oct-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.67;03-Nov-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.63;04-Nov-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.57;06-Nov-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.60;07-Nov-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.63;10-Nov-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.66;11-Nov-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.65;12-Nov-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.64;13-Nov-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.66;14-Nov-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.73;17-Nov-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.68;18-Nov-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.68;19-Nov-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.71;20-Nov-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.63;21-Nov-2025
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;Regular Plan;IDCW;INF0R8701129;INF0R8701137;11.58;24-Nov-2025

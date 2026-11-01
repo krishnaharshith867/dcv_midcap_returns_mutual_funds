@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+# data_collection/raw/
+# data_collection/raw/nav/
+# data_collection/raw/robots/
+# data_collection/raw/ter/
+# data_collection/interim/
+passwords.txt

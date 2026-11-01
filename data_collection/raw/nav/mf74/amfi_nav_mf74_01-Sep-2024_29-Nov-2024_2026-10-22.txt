@@ -1,0 +1,984 @@
+Scheme Code;NAV Name;Plan;Option;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net Asset Value;Date
+
+Open Ended Schemes ( Income/Debt Oriented Schemes - Overnight Fund )
+
+
+Samco Mutual Fund
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1128.1983;01-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1128.3779;02-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1128.5599;03-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1128.7491;04-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1128.9407;05-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1129.1237;06-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1129.3075;07-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1129.4913;08-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1129.6788;09-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1129.8694;10-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1130.0493;11-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1130.2385;12-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1130.4383;13-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1130.6390;14-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1130.8396;15-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1131.0408;16-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1131.2447;17-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1131.4494;18-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1131.6332;19-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1131.8360;20-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1132.0434;21-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1132.2509;22-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1132.4460;23-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1132.6374;24-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1132.8262;25-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1133.0170;26-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1133.2076;27-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1133.3994;28-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1133.5913;29-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1133.7950;30-Sep-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1133.9777;01-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1134.1620;02-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1134.3312;03-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1134.5586;04-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1134.7538;05-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1134.9491;06-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1135.1390;07-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1135.3248;08-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1135.5140;09-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1135.7024;10-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1135.8807;11-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1136.0601;12-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1136.2394;13-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1136.4340;14-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1136.6222;15-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1136.8058;16-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1136.9970;17-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1137.1948;18-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1137.3957;19-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1137.5966;20-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1137.8008;21-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1138.0011;22-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1138.2024;23-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1138.4020;24-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1138.5979;25-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1138.7951;26-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1138.9922;27-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1139.1810;28-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1139.3703;29-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1139.5605;30-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1139.7642;31-Oct-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1139.9524;01-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1140.1405;02-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1140.3287;03-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1140.4998;04-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1140.6846;05-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1140.8708;06-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1141.0612;07-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1141.2662;08-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1141.4719;09-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1141.6777;10-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1141.8615;11-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1142.0490;12-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1142.2551;13-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1142.4431;14-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1142.6318;15-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1142.8206;16-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1143.0094;17-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1143.1965;18-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1143.3911;19-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1143.5864;20-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1143.7905;21-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1143.9897;22-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1144.1897;23-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1144.3897;24-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1144.6023;25-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1144.8043;26-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1145.0080;27-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1145.2009;28-Nov-2024
+150631;Samco Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01040;;1145.4064;29-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1123.3456;01-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1123.5182;02-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1123.6934;03-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1123.8740;04-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1124.0586;05-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1124.2347;06-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1124.4115;07-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1124.5884;08-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1124.7685;09-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1124.9521;10-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1125.1251;11-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1125.3072;12-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1125.5000;13-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1125.6937;14-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1125.8873;15-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1126.0814;16-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1126.2782;17-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1126.4759;18-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1126.6502;19-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1126.8459;20-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1127.0462;21-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1127.2466;22-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1127.4346;23-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1127.6190;24-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1127.8006;25-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1127.9839;26-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1128.1674;27-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1128.3522;28-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1128.5370;29-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1128.7336;30-Sep-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1128.9090;01-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1129.0863;02-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1129.2477;03-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1129.4679;04-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1129.6560;05-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1129.8443;06-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1130.0266;07-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1130.2046;08-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1130.3866;09-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1130.5668;10-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1130.7376;11-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1130.9099;12-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1131.0822;13-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1131.2688;14-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1131.4499;15-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1131.6263;16-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1131.8103;17-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1131.9993;18-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1132.1930;19-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1132.3868;20-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1132.5839;21-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1132.7770;22-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1132.9712;23-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1133.1637;24-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1133.3525;25-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1133.5426;26-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1133.7326;27-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1133.9125;28-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1134.0948;29-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1134.2779;30-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1134.4475;31-Oct-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1134.6286;01-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1134.8097;02-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1134.9908;03-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1135.1549;04-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1135.3325;05-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1135.5116;06-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1135.6949;07-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1135.8924;08-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1136.0910;09-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1136.2895;10-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1136.4661;11-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1136.6464;12-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1136.8453;13-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1137.0262;14-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1137.2079;15-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1137.3895;16-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1137.5712;17-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1137.7511;18-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1137.9385;19-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1138.1267;20-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1138.3264;21-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1138.5183;22-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1138.7111;23-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1138.9040;24-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1139.1091;25-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1139.3039;26-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1139.5003;27-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1139.6861;28-Nov-2024
+150632;Samco Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01032;;1139.8843;29-Nov-2024
+153021;Samco Overnight Fund - Unclaimed Redemption Upto 3 years;;;;;1000.1800;23-Nov-2024
+153021;Samco Overnight Fund - Unclaimed Redemption Upto 3 years;;;;;1000.3600;24-Nov-2024
+153021;Samco Overnight Fund - Unclaimed Redemption Upto 3 years;;;;;1000.5600;25-Nov-2024
+153021;Samco Overnight Fund - Unclaimed Redemption Upto 3 years;;;;;1000.7400;26-Nov-2024
+153021;Samco Overnight Fund - Unclaimed Redemption Upto 3 years;;;;;1000.9200;27-Nov-2024
+153021;Samco Overnight Fund - Unclaimed Redemption Upto 3 years;;;;;1001.1000;28-Nov-2024
+153021;Samco Overnight Fund - Unclaimed Redemption Upto 3 years;;;;;1001.2800;29-Nov-2024
+
+Open Ended Schemes ( Equity Schemes - Multi Cap Fund )
+
+
+Samco Mutual Fund
+152847;Samco Multi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01198;;10.06;06-Nov-2024
+152847;Samco Multi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01198;;9.98;07-Nov-2024
+152847;Samco Multi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01198;;9.87;08-Nov-2024
+152847;Samco Multi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01198;;9.81;11-Nov-2024
+152847;Samco Multi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01198;;9.74;12-Nov-2024
+152847;Samco Multi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01198;;9.61;13-Nov-2024
+152847;Samco Multi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01198;;9.64;14-Nov-2024
+152847;Samco Multi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01198;;9.60;18-Nov-2024
+152847;Samco Multi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01198;;9.62;19-Nov-2024
+152847;Samco Multi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01198;;9.59;21-Nov-2024
+152847;Samco Multi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01198;;9.64;22-Nov-2024
+152847;Samco Multi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01198;;9.69;25-Nov-2024
+152847;Samco Multi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01198;;9.71;26-Nov-2024
+152847;Samco Multi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01198;;9.75;27-Nov-2024
+152847;Samco Multi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01198;;9.75;28-Nov-2024
+152847;Samco Multi Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01198;;9.80;29-Nov-2024
+152848;Samco Multi Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01206;;10.06;06-Nov-2024
+152848;Samco Multi Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01206;;9.98;07-Nov-2024
+152848;Samco Multi Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01206;;9.87;08-Nov-2024
+152848;Samco Multi Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01206;;9.80;11-Nov-2024
+152848;Samco Multi Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01206;;9.73;12-Nov-2024
+152848;Samco Multi Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01206;;9.60;13-Nov-2024
+152848;Samco Multi Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01206;;9.63;14-Nov-2024
+152848;Samco Multi Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01206;;9.59;18-Nov-2024
+152848;Samco Multi Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01206;;9.62;19-Nov-2024
+152848;Samco Multi Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01206;;9.59;21-Nov-2024
+152848;Samco Multi Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01206;;9.64;22-Nov-2024
+152848;Samco Multi Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01206;;9.69;25-Nov-2024
+152848;Samco Multi Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01206;;9.71;26-Nov-2024
+152848;Samco Multi Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01206;;9.74;27-Nov-2024
+152848;Samco Multi Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01206;;9.75;28-Nov-2024
+152848;Samco Multi Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01206;;9.79;29-Nov-2024
+
+Open Ended Schemes ( Equity Schemes - Thematic Fund )
+
+
+Samco Mutual Fund
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.49;02-Sep-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.55;03-Sep-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.61;04-Sep-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.62;05-Sep-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.30;06-Sep-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.24;09-Sep-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.38;10-Sep-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.20;11-Sep-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.33;12-Sep-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.38;13-Sep-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.38;16-Sep-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.38;17-Sep-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.27;18-Sep-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.10;19-Sep-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.31;20-Sep-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.36;23-Sep-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.36;24-Sep-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.31;25-Sep-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.39;26-Sep-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.43;27-Sep-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.32;30-Sep-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.34;01-Oct-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.04;03-Oct-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.90;04-Oct-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.56;07-Oct-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.80;08-Oct-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.98;09-Oct-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.96;10-Oct-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.13;11-Oct-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.21;14-Oct-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.27;15-Oct-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.20;16-Oct-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.85;17-Oct-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.90;18-Oct-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.79;21-Oct-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.42;22-Oct-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.54;23-Oct-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.60;24-Oct-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.41;25-Oct-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.57;28-Oct-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.60;29-Oct-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.70;30-Oct-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.81;31-Oct-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.86;04-Nov-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.86;05-Nov-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.99;06-Nov-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.92;07-Nov-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.82;08-Nov-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.79;11-Nov-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.65;12-Nov-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.47;13-Nov-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.51;14-Nov-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.49;18-Nov-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.62;19-Nov-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.51;21-Nov-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.67;22-Nov-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.93;25-Nov-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.97;26-Nov-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.06;27-Nov-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;14.97;28-Nov-2024
+151753;Samco Active Momentum Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01081;;15.16;29-Nov-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;15.24;02-Sep-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;15.30;03-Sep-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;15.35;04-Sep-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;15.36;05-Sep-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;15.05;06-Sep-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.99;09-Sep-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;15.13;10-Sep-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.95;11-Sep-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;15.07;12-Sep-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;15.12;13-Sep-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;15.12;16-Sep-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;15.12;17-Sep-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;15.01;18-Sep-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.85;19-Sep-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;15.05;20-Sep-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;15.10;23-Sep-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;15.09;24-Sep-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;15.05;25-Sep-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;15.13;26-Sep-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;15.17;27-Sep-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;15.05;30-Sep-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;15.08;01-Oct-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.78;03-Oct-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.63;04-Oct-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.31;07-Oct-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.53;08-Oct-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.71;09-Oct-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.70;10-Oct-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.86;11-Oct-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.94;14-Oct-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;15.00;15-Oct-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.93;16-Oct-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.58;17-Oct-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.63;18-Oct-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.52;21-Oct-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.15;22-Oct-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.27;23-Oct-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.34;24-Oct-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.15;25-Oct-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.30;28-Oct-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.33;29-Oct-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.43;30-Oct-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.53;31-Oct-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.58;04-Nov-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.58;05-Nov-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.70;06-Nov-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.64;07-Nov-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.54;08-Nov-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.51;11-Nov-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.37;12-Nov-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.19;13-Nov-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.23;14-Nov-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.21;18-Nov-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.34;19-Nov-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.23;21-Nov-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.38;22-Nov-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.64;25-Nov-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.68;26-Nov-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.77;27-Nov-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.68;28-Nov-2024
+151752;Samco Active Momentum Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01073;;14.86;29-Nov-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;13.14;02-Sep-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;13.22;03-Sep-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;13.20;04-Sep-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;13.18;05-Sep-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;13.08;06-Sep-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.97;09-Sep-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;13.05;10-Sep-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;13.04;11-Sep-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;13.12;12-Sep-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;13.22;13-Sep-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;13.21;16-Sep-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;13.08;17-Sep-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;13.02;18-Sep-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.89;19-Sep-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;13.01;20-Sep-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;13.10;23-Sep-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;13.10;24-Sep-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.99;25-Sep-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.99;26-Sep-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;13.06;27-Sep-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;13.02;30-Sep-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;13.03;01-Oct-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.79;03-Oct-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.71;04-Oct-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.36;07-Oct-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.73;08-Oct-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.95;09-Oct-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.89;10-Oct-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;13.01;11-Oct-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.95;14-Oct-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;13.11;15-Oct-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;13.18;16-Oct-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.86;17-Oct-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.95;18-Oct-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.73;21-Oct-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.29;22-Oct-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.41;23-Oct-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.20;24-Oct-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.04;25-Oct-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.15;28-Oct-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.22;29-Oct-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.31;30-Oct-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.38;31-Oct-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.24;04-Nov-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.32;05-Nov-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.59;06-Nov-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.51;07-Nov-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.49;08-Nov-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.45;11-Nov-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.30;12-Nov-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;11.94;13-Nov-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.01;14-Nov-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;11.96;18-Nov-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.08;19-Nov-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.01;21-Nov-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.21;22-Nov-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.41;25-Nov-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.44;26-Nov-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.50;27-Nov-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.41;28-Nov-2024
+149450;Samco Flexi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01024;;12.50;29-Nov-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.65;02-Sep-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.73;03-Sep-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.71;04-Sep-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.69;05-Sep-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.59;06-Sep-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.48;09-Sep-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.56;10-Sep-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.55;11-Sep-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.63;12-Sep-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.72;13-Sep-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.71;16-Sep-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.59;17-Sep-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.53;18-Sep-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.40;19-Sep-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.51;20-Sep-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.60;23-Sep-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.60;24-Sep-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.50;25-Sep-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.49;26-Sep-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.56;27-Sep-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.51;30-Sep-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.53;01-Oct-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.29;03-Oct-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.22;04-Oct-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.88;07-Oct-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.24;08-Oct-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.45;09-Oct-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.39;10-Oct-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.50;11-Oct-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.45;14-Oct-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.60;15-Oct-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.67;16-Oct-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.36;17-Oct-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.44;18-Oct-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.23;21-Oct-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.81;22-Oct-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.92;23-Oct-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.72;24-Oct-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.57;25-Oct-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.67;28-Oct-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.73;29-Oct-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.82;30-Oct-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.89;31-Oct-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.75;04-Nov-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.83;05-Nov-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.08;06-Nov-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.01;07-Nov-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.00;08-Nov-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.95;11-Nov-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.81;12-Nov-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.46;13-Nov-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.53;14-Nov-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.48;18-Nov-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.59;19-Nov-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.53;21-Nov-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.72;22-Nov-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.91;25-Nov-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.93;26-Nov-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.99;27-Nov-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;11.91;28-Nov-2024
+149449;Samco Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01016;;12.00;29-Nov-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.07;02-Sep-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.08;03-Sep-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.12;04-Sep-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.13;05-Sep-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.01;06-Sep-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.96;09-Sep-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.14;10-Sep-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.10;11-Sep-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.21;12-Sep-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.28;13-Sep-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.31;16-Sep-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.31;17-Sep-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.27;18-Sep-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.15;19-Sep-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.31;20-Sep-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.37;23-Sep-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.38;24-Sep-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.39;25-Sep-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.34;26-Sep-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.35;27-Sep-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.35;30-Sep-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.28;01-Oct-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.05;03-Oct-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.00;04-Oct-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.62;07-Oct-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.87;08-Oct-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.06;09-Oct-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.12;10-Oct-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.24;11-Oct-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.27;14-Oct-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.45;15-Oct-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.54;16-Oct-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.32;17-Oct-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.33;18-Oct-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.17;21-Oct-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.75;22-Oct-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.84;23-Oct-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.72;24-Oct-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.52;25-Oct-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.65;28-Oct-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.73;29-Oct-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.77;30-Oct-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.94;31-Oct-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.79;04-Nov-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.86;05-Nov-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;10.02;06-Nov-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.92;07-Nov-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.81;08-Nov-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.69;11-Nov-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.56;12-Nov-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.23;13-Nov-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.31;14-Nov-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.27;18-Nov-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.34;19-Nov-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.31;21-Nov-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.39;22-Nov-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.51;25-Nov-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.52;26-Nov-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.64;27-Nov-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.63;28-Nov-2024
+152586;Samco Special Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01180;;9.64;29-Nov-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.03;02-Sep-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.04;03-Sep-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.08;04-Sep-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.08;05-Sep-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.97;06-Sep-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.92;09-Sep-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.09;10-Sep-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.05;11-Sep-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.17;12-Sep-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.23;13-Sep-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.26;16-Sep-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.26;17-Sep-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.22;18-Sep-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.10;19-Sep-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.26;20-Sep-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.32;23-Sep-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.33;24-Sep-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.33;25-Sep-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.28;26-Sep-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.30;27-Sep-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.29;30-Sep-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.23;01-Oct-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.99;03-Oct-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.95;04-Oct-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.56;07-Oct-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.81;08-Oct-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.00;09-Oct-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.06;10-Oct-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.18;11-Oct-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.21;14-Oct-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.38;15-Oct-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.48;16-Oct-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.26;17-Oct-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.27;18-Oct-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;10.11;21-Oct-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.69;22-Oct-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.78;23-Oct-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.66;24-Oct-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.46;25-Oct-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.58;28-Oct-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.66;29-Oct-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.70;30-Oct-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.87;31-Oct-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.72;04-Nov-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.80;05-Nov-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.95;06-Nov-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.84;07-Nov-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.74;08-Nov-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.62;11-Nov-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.48;12-Nov-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.16;13-Nov-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.24;14-Nov-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.19;18-Nov-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.27;19-Nov-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.23;21-Nov-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.31;22-Nov-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.43;25-Nov-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.44;26-Nov-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.55;27-Nov-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.55;28-Nov-2024
+152587;Samco Special Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01172;;9.55;29-Nov-2024
+
+Open Ended Schemes ( Equity Schemes - ELSS- Tax Saver Fund )
+
+
+Samco Mutual Fund
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.57;02-Sep-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.63;03-Sep-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.56;04-Sep-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.60;05-Sep-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.47;06-Sep-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.27;09-Sep-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.38;10-Sep-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.37;11-Sep-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.48;12-Sep-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.66;13-Sep-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.70;16-Sep-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.61;17-Sep-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.51;18-Sep-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.41;19-Sep-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.49;20-Sep-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.55;23-Sep-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.54;24-Sep-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.42;25-Sep-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.42;26-Sep-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.43;27-Sep-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.42;30-Sep-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.39;01-Oct-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.09;03-Oct-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.98;04-Oct-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.58;07-Oct-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.95;08-Oct-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.19;09-Oct-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.14;10-Oct-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.28;11-Oct-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.25;14-Oct-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.46;15-Oct-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.51;16-Oct-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.27;17-Oct-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.34;18-Oct-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.03;21-Oct-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.55;22-Oct-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.77;23-Oct-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.61;24-Oct-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.31;25-Oct-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.44;28-Oct-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.64;29-Oct-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.80;30-Oct-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.95;31-Oct-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.82;04-Nov-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.91;05-Nov-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.19;06-Nov-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;15.08;07-Nov-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.97;08-Nov-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.85;11-Nov-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.69;12-Nov-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.26;13-Nov-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.37;14-Nov-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.28;18-Nov-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.41;19-Nov-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.29;21-Nov-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.50;22-Nov-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.75;25-Nov-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.84;26-Nov-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.88;27-Nov-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.86;28-Nov-2024
+150838;Samco ELSS Tax Saver Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01065;;14.99;29-Nov-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;15.18;02-Sep-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;15.23;03-Sep-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;15.17;04-Sep-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;15.21;05-Sep-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;15.08;06-Sep-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.89;09-Sep-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.99;10-Sep-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.98;11-Sep-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;15.09;12-Sep-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;15.26;13-Sep-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;15.30;16-Sep-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;15.21;17-Sep-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;15.11;18-Sep-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;15.01;19-Sep-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;15.09;20-Sep-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;15.15;23-Sep-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;15.14;24-Sep-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;15.02;25-Sep-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;15.02;26-Sep-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;15.03;27-Sep-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;15.02;30-Sep-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.99;01-Oct-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.70;03-Oct-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.58;04-Oct-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.20;07-Oct-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.55;08-Oct-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.79;09-Oct-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.74;10-Oct-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.87;11-Oct-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.85;14-Oct-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;15.05;15-Oct-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;15.10;16-Oct-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.86;17-Oct-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.93;18-Oct-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.63;21-Oct-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.16;22-Oct-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.37;23-Oct-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.21;24-Oct-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;13.92;25-Oct-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.04;28-Oct-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.25;29-Oct-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.40;30-Oct-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.54;31-Oct-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.41;04-Nov-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.50;05-Nov-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.78;06-Nov-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.66;07-Nov-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.56;08-Nov-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.44;11-Nov-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.28;12-Nov-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;13.87;13-Nov-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;13.97;14-Nov-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;13.89;18-Nov-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.01;19-Nov-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;13.89;21-Nov-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.09;22-Nov-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.33;25-Nov-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.42;26-Nov-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.46;27-Nov-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.44;28-Nov-2024
+150839;Samco ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01057;;14.56;29-Nov-2024
+
+Open Ended Schemes ( Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation )
+
+
+Samco Mutual Fund
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.65;02-Sep-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.65;03-Sep-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.70;04-Sep-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.66;05-Sep-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.50;06-Sep-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.48;09-Sep-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.57;10-Sep-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.48;11-Sep-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.62;12-Sep-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.67;13-Sep-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.67;16-Sep-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.66;17-Sep-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.57;18-Sep-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.46;19-Sep-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.62;20-Sep-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.70;23-Sep-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.72;24-Sep-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.67;25-Sep-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.77;26-Sep-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.80;27-Sep-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.74;30-Sep-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.73;01-Oct-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.51;03-Oct-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.42;04-Oct-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.23;07-Oct-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.38;08-Oct-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.47;09-Oct-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.45;10-Oct-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.48;11-Oct-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.51;14-Oct-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.54;15-Oct-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.49;16-Oct-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.24;17-Oct-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.25;18-Oct-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;11.16;21-Oct-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.92;22-Oct-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.94;23-Oct-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.94;24-Oct-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.85;25-Oct-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.89;28-Oct-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.90;29-Oct-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.91;30-Oct-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.88;31-Oct-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.86;04-Nov-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.91;05-Nov-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.97;06-Nov-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.95;07-Nov-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.90;08-Nov-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.87;11-Nov-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.83;12-Nov-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.75;13-Nov-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.78;14-Nov-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.80;18-Nov-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.84;19-Nov-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.82;21-Nov-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.86;22-Nov-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.89;25-Nov-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.90;26-Nov-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.90;27-Nov-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.87;28-Nov-2024
+152188;Samco Dynamic Asset Allocation Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF0K1H01131;;10.92;29-Nov-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.64;02-Sep-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.64;03-Sep-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.69;04-Sep-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.65;05-Sep-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.49;06-Sep-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.47;09-Sep-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.56;10-Sep-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.47;11-Sep-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.61;12-Sep-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.66;13-Sep-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.66;16-Sep-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.65;17-Sep-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.56;18-Sep-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.45;19-Sep-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.61;20-Sep-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.69;23-Sep-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.71;24-Sep-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.66;25-Sep-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.76;26-Sep-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.79;27-Sep-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.73;30-Sep-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.72;01-Oct-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.50;03-Oct-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.41;04-Oct-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.22;07-Oct-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.37;08-Oct-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.46;09-Oct-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.44;10-Oct-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.47;11-Oct-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.50;14-Oct-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.53;15-Oct-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.48;16-Oct-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.23;17-Oct-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.24;18-Oct-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;11.15;21-Oct-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.91;22-Oct-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.93;23-Oct-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.93;24-Oct-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.84;25-Oct-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.88;28-Oct-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.89;29-Oct-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.90;30-Oct-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.87;31-Oct-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.86;04-Nov-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.90;05-Nov-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.96;06-Nov-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.94;07-Nov-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.89;08-Nov-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.86;11-Nov-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.82;12-Nov-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.74;13-Nov-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.77;14-Nov-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.79;18-Nov-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.83;19-Nov-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.81;21-Nov-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.85;22-Nov-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.88;25-Nov-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.89;26-Nov-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.89;27-Nov-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.86;28-Nov-2024
+152186;Samco Dynamic Asset Allocation Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF0K1H01149;INF0K1H01156;10.91;29-Nov-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.51;02-Sep-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.50;03-Sep-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.56;04-Sep-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.52;05-Sep-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.35;06-Sep-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.33;09-Sep-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.42;10-Sep-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.33;11-Sep-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.48;12-Sep-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.52;13-Sep-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.52;16-Sep-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.51;17-Sep-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.42;18-Sep-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.31;19-Sep-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.47;20-Sep-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.55;23-Sep-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.56;24-Sep-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.52;25-Sep-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.61;26-Sep-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.64;27-Sep-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.58;30-Sep-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.57;01-Oct-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.36;03-Oct-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.26;04-Oct-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.08;07-Oct-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.22;08-Oct-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.31;09-Oct-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.29;10-Oct-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.33;11-Oct-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.35;14-Oct-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.38;15-Oct-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.33;16-Oct-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.08;17-Oct-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.09;18-Oct-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;11.00;21-Oct-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.76;22-Oct-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.78;23-Oct-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.78;24-Oct-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.69;25-Oct-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.73;28-Oct-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.74;29-Oct-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.75;30-Oct-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.72;31-Oct-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.70;04-Nov-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.74;05-Nov-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.81;06-Nov-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.79;07-Nov-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.73;08-Nov-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.70;11-Nov-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.67;12-Nov-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.58;13-Nov-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.61;14-Nov-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.63;18-Nov-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.67;19-Nov-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.65;21-Nov-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.69;22-Nov-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.72;25-Nov-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.72;26-Nov-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.73;27-Nov-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.70;28-Nov-2024
+152187;Samco Dynamic Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF0K1H01099;;10.74;29-Nov-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.51;02-Sep-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.50;03-Sep-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.56;04-Sep-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.52;05-Sep-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.35;06-Sep-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.33;09-Sep-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.42;10-Sep-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.33;11-Sep-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.48;12-Sep-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.52;13-Sep-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.52;16-Sep-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.51;17-Sep-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.42;18-Sep-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.31;19-Sep-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.47;20-Sep-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.55;23-Sep-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.56;24-Sep-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.52;25-Sep-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.61;26-Sep-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.64;27-Sep-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.58;30-Sep-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.57;01-Oct-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.36;03-Oct-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.26;04-Oct-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.08;07-Oct-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.22;08-Oct-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.31;09-Oct-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.29;10-Oct-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.33;11-Oct-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.35;14-Oct-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.38;15-Oct-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.33;16-Oct-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.08;17-Oct-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.09;18-Oct-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;11.00;21-Oct-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.76;22-Oct-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.78;23-Oct-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.78;24-Oct-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.69;25-Oct-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.73;28-Oct-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.74;29-Oct-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.75;30-Oct-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.72;31-Oct-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.70;04-Nov-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.74;05-Nov-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.81;06-Nov-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.79;07-Nov-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.73;08-Nov-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.70;11-Nov-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.67;12-Nov-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.58;13-Nov-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.61;14-Nov-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.63;18-Nov-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.67;19-Nov-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.65;21-Nov-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.69;22-Nov-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.72;25-Nov-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.72;26-Nov-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.73;27-Nov-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.70;28-Nov-2024
+152185;Samco Dynamic Asset Allocation Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF0K1H01107;INF0K1H01115;10.74;29-Nov-2024
+
+Open Ended Schemes ( Hybrid Schemes - Arbitrage Fund )
+
+
+Samco Mutual Fund
+153090;Samco Arbitrage Fund - Direct Plan - Growth;Direct Plan;Growth;INF0K1H01214;;10.00;29-Nov-2024
+153091;Samco Arbitrage Fund - Regular Plan - Growth;Regular Plan;Growth;INF0K1H01222;;10.00;29-Nov-2024

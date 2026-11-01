@@ -1,0 +1,1079 @@
+Scheme Code;NAV Name;Plan;Option;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net Asset Value;Date
+
+Open Ended Schemes ( Debt Scheme - Liquid Fund )
+
+
+Trust Mutual Fund
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1000.2671;25-Apr-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1000.3386;26-Apr-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1000.4157;27-Apr-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1000.5;28-Apr-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1000.5929;29-Apr-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1000.6729;30-Apr-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1000.8529;02-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1000.9271;03-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1001.0014;04-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1001.0571;05-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1001.13;06-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1001.2157;07-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1001.4014;09-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1001.4786;10-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1001.5714;11-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1001.6529;12-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1001.7443;13-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1001.8486;14-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1002.0343;16-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1002.1271;17-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1002.22;18-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1002.3029;19-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1002.4029;20-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1002.48;21-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1002.6657;23-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1002.7571;24-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1002.8457;25-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1002.9371;26-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1003.04;27-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1003.1274;28-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1003.315;30-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1003.3963;31-May-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1003.4334;01-Jun-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1003.5301;02-Jun-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1003.6258;03-Jun-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1003.7236;04-Jun-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1003.9037;06-Jun-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1003.9915;07-Jun-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1004.0838;08-Jun-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1004.1589;09-Jun-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1004.2427;10-Jun-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1004.3328;11-Jun-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1004.5185;13-Jun-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1004.5358;14-Jun-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1004.6222;15-Jun-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1004.6923;16-Jun-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1004.7524;17-Jun-2021
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;Direct Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1004.8553;18-Jun-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1000.312;25-Apr-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1000.3822;26-Apr-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1000.4565;27-Apr-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1000.5391;28-Apr-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1000.629;29-Apr-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1000.7072;30-Apr-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1000.8838;02-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1000.9569;03-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1001.0282;04-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1001.085;05-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1001.1572;06-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1001.2401;07-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1001.4217;09-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1001.4987;10-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1001.5906;11-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1001.6731;12-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1001.7647;13-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1001.8688;14-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1002.0528;16-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1002.1449;17-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1002.2372;18-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1002.3208;19-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1002.4178;20-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1002.4937;21-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1002.6766;23-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1002.7667;24-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1002.8548;25-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1002.946;26-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1003.0491;27-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1003.1454;28-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1003.3276;30-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1003.41;31-May-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1003.4938;01-Jun-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1003.589;02-Jun-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1003.6837;03-Jun-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1003.7825;04-Jun-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1003.964;06-Jun-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1004.0513;07-Jun-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1004.1446;08-Jun-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1004.2404;09-Jun-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1004.3228;10-Jun-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1004.4114;11-Jun-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1004.5942;13-Jun-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1004.6858;14-Jun-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1004.7735;15-Jun-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1004.8446;16-Jun-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1004.9064;17-Jun-2021
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;Direct Plan;Growth;INF0GCD01255;;1005.0103;18-Jun-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1000.2947;25-Apr-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1000.3652;26-Apr-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1000.4397;27-Apr-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1000.5224;28-Apr-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1000.6127;29-Apr-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1000.691;30-Apr-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1000.8679;02-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1000.9411;03-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1001.0124;04-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1001.0697;05-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1001.1421;06-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1001.2252;07-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1001.4073;09-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1001.4845;10-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1001.5705;11-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1001.6531;12-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1001.7447;13-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1001.8486;14-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1002.0324;16-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1002.1245;17-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1002.2167;18-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1002.3002;19-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1002.3974;20-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1002.4736;21-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1002.6565;23-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1002.7467;24-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1002.8346;25-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1002.9257;26-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1003.0291;27-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1003.12;28-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1003.3026;30-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1003.3797;31-May-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1003.4637;01-Jun-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1003.5593;02-Jun-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1003.6543;03-Jun-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1003.7532;04-Jun-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1003.9347;06-Jun-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1004.0228;07-Jun-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1004.1164;08-Jun-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1004.2103;09-Jun-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1004.2929;10-Jun-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1004.3816;11-Jun-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1004.5646;13-Jun-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1004.6561;14-Jun-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1004.7442;15-Jun-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1004.8155;16-Jun-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1004.8776;17-Jun-2021
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;Direct Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1004.9818;18-Jun-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1000.258;25-Apr-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1000.326;26-Apr-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1000.3383;27-Apr-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1000.42;28-Apr-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1000.51;29-Apr-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1000.5933;30-Apr-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1000.7767;02-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1000.8517;03-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1000.9267;04-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1000.9833;05-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1001.0567;06-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1001.1383;07-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1001.3183;09-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1001.395;10-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1001.4833;11-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1001.5633;12-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1001.6533;13-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1001.76;14-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1001.9467;16-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1002.04;17-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1002.1333;18-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1002.22;19-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1002.315;20-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1002.3917;21-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1002.5717;23-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1002.6617;24-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1002.75;25-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1002.84;26-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1002.9433;27-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1003.0433;28-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1003.23;30-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1003.315;31-May-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1003.3983;01-Jun-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1003.495;02-Jun-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1003.59;03-Jun-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1003.69;04-Jun-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1003.87;06-Jun-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1003.9583;07-Jun-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1004.05;08-Jun-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1004.1433;09-Jun-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1004.2267;10-Jun-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1004.3133;11-Jun-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1004.4933;13-Jun-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1004.0867;14-Jun-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1004.3436;15-Jun-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1004.4185;16-Jun-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1004.4818;17-Jun-2021
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;Direct Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1004.5901;18-Jun-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1000.2533;25-Apr-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1000.32;26-Apr-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1000.3933;27-Apr-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1000.4747;28-Apr-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1000.5627;29-Apr-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1000.636;30-Apr-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1000.8067;02-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1000.8747;03-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1000.9453;04-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1000.9987;05-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1001.0693;06-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1001.152;07-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1001.3333;09-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1001.4093;10-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1001.5013;11-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1001.584;12-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1001.6747;13-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1001.7773;14-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1001.9587;16-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1002.048;17-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1002.1373;18-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1002.1958;19-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1002.29;20-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1002.3617;21-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1002.5359;23-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1002.6218;24-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1002.7065;25-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1002.7936;26-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1002.8924;27-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1002.9866;28-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1003.1655;30-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1003.2455;31-May-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1003.3255;01-Jun-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1003.4185;02-Jun-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1003.5102;03-Jun-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1003.6056;04-Jun-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1003.7797;06-Jun-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1003.8621;07-Jun-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1003.9515;08-Jun-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1004.0445;09-Jun-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1004.1233;10-Jun-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1004.2092;11-Jun-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1004.3857;13-Jun-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1004.4022;14-Jun-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1004.4881;15-Jun-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1004.5587;16-Jun-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1004.6187;17-Jun-2021
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;Regular Plan;Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1004.7199;18-Jun-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1000.2996;25-Apr-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1000.3657;26-Apr-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1000.4359;27-Apr-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1000.5144;28-Apr-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1000.6002;29-Apr-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1000.6743;30-Apr-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1000.8427;02-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1000.9116;03-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1000.9788;04-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1001.0315;05-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1001.0996;06-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1001.1783;07-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1001.3517;09-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1001.4246;10-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1001.5123;11-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1001.5907;12-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1001.6782;13-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1001.7782;14-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1001.9539;16-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1002.0419;17-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1002.1301;18-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1002.2095;19-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1002.3024;20-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1002.3742;21-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1002.5488;23-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1002.6348;24-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1002.7187;25-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1002.8058;26-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1002.9048;27-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1002.9969;28-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1003.1709;30-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1003.2491;31-May-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1003.3287;01-Jun-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1003.4198;02-Jun-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1003.5104;03-Jun-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1003.605;04-Jun-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1003.7783;06-Jun-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1003.8614;07-Jun-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1003.9506;08-Jun-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1004.0422;09-Jun-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1004.1205;10-Jun-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1004.205;11-Jun-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1004.3794;13-Jun-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1004.4668;14-Jun-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1004.5504;15-Jun-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1004.6174;16-Jun-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1004.675;17-Jun-2021
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;Regular Plan;Growth;INF0GCD01198;;1004.7748;18-Jun-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1000.2667;25-Apr-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1000.3327;26-Apr-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1000.4027;27-Apr-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1000.4812;28-Apr-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1000.5672;29-Apr-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1000.6414;30-Apr-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1000.8101;02-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1000.8792;03-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1000.9464;04-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1000.9993;05-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1001.0675;06-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1001.1461;07-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1001.3194;09-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1001.3923;10-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1001.4803;11-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1001.5589;12-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1001.6466;13-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1001.7468;14-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1001.9231;16-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1002.0112;17-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1002.0991;18-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1002.1788;19-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1002.2717;20-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1002.3437;21-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1002.5189;23-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1002.605;24-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1002.6893;25-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1002.7768;26-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1002.8758;27-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1002.968;28-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1003.1422;30-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1003.2204;31-May-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1003.3001;01-Jun-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1003.3911;02-Jun-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1003.4817;03-Jun-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1003.5763;04-Jun-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1003.7498;06-Jun-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1003.8331;07-Jun-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1003.9223;08-Jun-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1004.0139;09-Jun-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1004.0925;10-Jun-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1004.1771;11-Jun-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1004.3525;13-Jun-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1004.4399;14-Jun-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1004.5236;15-Jun-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1004.5904;16-Jun-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1004.6481;17-Jun-2021
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;Regular Plan;Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1004.7481;18-Jun-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1000.2513;25-Apr-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1000.3173;26-Apr-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1000.388;27-Apr-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1000.466;28-Apr-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1000.552;29-Apr-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1000.6267;30-Apr-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1000.796;02-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1000.8653;03-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1000.932;04-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1000.9847;05-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1001.0527;06-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1001.1313;07-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1001.304;09-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1001.376;10-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1001.4633;11-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1001.542;12-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1001.6287;13-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1001.7287;14-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1001.906;16-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1001.9947;17-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1002.084;18-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1002.164;19-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1002.2587;20-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1002.3313;21-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1002.506;23-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1002.5927;24-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1002.676;25-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1002.7627;26-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1002.8627;27-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1002.9553;28-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1003.1287;30-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1003.2067;31-May-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1003.286;01-Jun-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1003.3773;02-Jun-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1003.4673;03-Jun-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1003.5633;04-Jun-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1003.738;06-Jun-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1003.822;07-Jun-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1003.912;08-Jun-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1004.0047;09-Jun-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1004.084;10-Jun-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1004.1693;11-Jun-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1004.3453;13-Jun-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1003.9347;14-Jun-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1004.0488;15-Jun-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1004.1174;16-Jun-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1004.1754;17-Jun-2021
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;Regular Plan;Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1004.2753;18-Jun-2021
+
+Open Ended Schemes ( Debt Scheme - Banking and PSU Fund )
+
+
+Trust Mutual Fund
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;995.9331;22-Mar-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;998.8737;23-Mar-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;999.8408;24-Mar-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;999.6276;25-Mar-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1000.4688;26-Mar-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1001.1756;30-Mar-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1001.732;31-Mar-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1004.849;05-Apr-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1005.664;06-Apr-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1005.3809;07-Apr-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1004.6366;08-Apr-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1006.0377;09-Apr-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1006.1309;12-Apr-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1005.3532;15-Apr-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1005.3156;16-Apr-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1006.0814;19-Apr-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1006.4249;20-Apr-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1007.107;22-Apr-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1008.2623;23-Apr-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1010.3525;26-Apr-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1010.9175;27-Apr-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1011.628;28-Apr-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1011.8482;29-Apr-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1012.4551;30-Apr-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1013.5182;03-May-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1013.3171;04-May-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1013.6156;05-May-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1013.7955;06-May-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1014.5164;07-May-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1014.9204;10-May-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1015.5758;11-May-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1015.5221;12-May-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1015.1679;14-May-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1015.9067;17-May-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1016.773;18-May-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1016.8867;19-May-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1017.4939;20-May-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1017.7579;21-May-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1018.2761;24-May-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1019.1899;25-May-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1019.8278;27-May-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1019.5095;28-May-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1018.3904;31-May-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1019.0701;01-Jun-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1019.3361;02-Jun-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1019.5288;03-Jun-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1019.6067;04-Jun-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1020.9374;07-Jun-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1021.4354;08-Jun-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1021.5969;09-Jun-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1023.1221;10-Jun-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1023.9798;11-Jun-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1024.1837;14-Jun-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1021.7057;15-Jun-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1018.8899;16-Jun-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1019.7418;17-Jun-2021
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;;;INF0GCD01107;;1020.429;18-Jun-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;995.2491;22-Mar-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;998.174;23-Mar-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;999.1267;24-Mar-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;998.9;25-Mar-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;999.7268;26-Mar-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1000.3783;30-Mar-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1000.9206;31-Mar-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1003.9662;05-Apr-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1004.7668;06-Apr-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1004.4701;07-Apr-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1003.7127;08-Apr-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1005.0988;09-Apr-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1005.1505;12-Apr-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1004.3324;15-Apr-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1004.281;16-Apr-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1005.0047;19-Apr-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1005.3341;20-Apr-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1005.9879;22-Apr-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1007.1281;23-Apr-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1009.1744;26-Apr-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1009.725;27-Apr-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1010.4208;28-Apr-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1010.627;29-Apr-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1011.2192;30-Apr-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1012.2394;03-May-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1012.0247;04-May-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1012.309;05-May-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1012.4747;06-May-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1013.1809;07-May-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1013.5426;10-May-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1014.1833;11-May-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1014.1158;12-May-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1013.7344;14-May-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1014.4303;17-May-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1015.2815;18-May-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1015.3811;19-May-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1015.9735;20-May-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1016.2232;21-May-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1016.6988;24-May-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1017.5973;25-May-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1018.2062;27-May-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1017.8745;28-May-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1016.7154;31-May-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1017.38;01-Jun-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1017.6316;02-Jun-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1017.8101;03-Jun-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1017.8739;04-Jun-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1019.1605;07-Jun-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1019.6436;08-Jun-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1019.7908;09-Jun-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1021.2994;10-Jun-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1022.1415;11-Jun-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1022.303;14-Jun-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1019.8156;15-Jun-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1016.9911;16-Jun-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1017.8275;17-Jun-2021
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;;;INF0GCD01016;;1018.4994;18-Jun-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;995.9325;22-Mar-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;998.8732;23-Mar-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;999.8403;24-Mar-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;999.6271;25-Mar-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1000.4683;26-Mar-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1001.1753;30-Mar-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1001.7317;31-Mar-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1004.849;05-Apr-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1005.664;06-Apr-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1005.3809;07-Apr-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1004.6366;08-Apr-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1006.0378;09-Apr-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1006.131;12-Apr-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1005.3535;15-Apr-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1005.3158;16-Apr-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1006.0817;19-Apr-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1006.4253;20-Apr-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1007.1074;22-Apr-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1008.2628;23-Apr-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1010.3531;26-Apr-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1010.9181;27-Apr-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1011.6287;28-Apr-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1011.8489;29-Apr-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1012.4558;30-Apr-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1013.519;03-May-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1013.3179;04-May-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1013.6165;05-May-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1013.7964;06-May-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1014.5174;07-May-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1014.9214;10-May-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1015.5769;11-May-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1015.5233;12-May-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1015.1692;14-May-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1015.908;17-May-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1016.7743;18-May-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1016.888;19-May-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1017.4953;20-May-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1017.7593;21-May-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1018.2777;24-May-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1019.1915;25-May-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1019.8294;27-May-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1019.5112;28-May-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1018.3921;31-May-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1019.0719;01-Jun-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1019.3379;02-Jun-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1019.5307;03-Jun-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1019.6086;04-Jun-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1020.9394;07-Jun-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1021.4374;08-Jun-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1021.5989;09-Jun-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1023.1241;10-Jun-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1023.9819;11-Jun-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1024.1859;14-Jun-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1021.7079;15-Jun-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1018.8922;16-Jun-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1019.7441;17-Jun-2021
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01180;INF0GCD01172;1020.4313;18-Jun-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;996.0278;22-Mar-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;998.9722;23-Mar-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;999.9433;24-Mar-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;999.7333;25-Mar-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1000.5767;26-Mar-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1001.2956;30-Mar-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1001.8556;31-Mar-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1004.9878;05-Apr-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1005.8056;06-Apr-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1005.5256;07-Apr-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1004.7856;08-Apr-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1006.19;09-Apr-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1006.1922;12-Apr-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1005.3222;15-Apr-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1005.1878;16-Apr-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1006.1633;19-Apr-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1006.51;20-Apr-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1007.1989;22-Apr-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1008.3578;23-Apr-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1010.4589;26-Apr-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1011.0267;27-Apr-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1011.74;28-Apr-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1011.9644;29-Apr-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1012.5733;30-Apr-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1013.6444;03-May-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1013.4456;04-May-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1013.7467;05-May-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1013.9278;06-May-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1014.65;07-May-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1015.0567;10-May-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1015.7156;11-May-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1015.6644;12-May-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1015.3156;14-May-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1016.0622;17-May-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1016.93;18-May-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1017.0444;19-May-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1017.6533;20-May-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1017.9189;21-May-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1018.4422;24-May-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1019.3578;25-May-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1019.9989;27-May-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1019.6822;28-May-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1018.5678;31-May-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1019.2511;01-Jun-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1019.5211;02-Jun-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1019.7167;03-Jun-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1019.7967;04-Jun-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1021.1322;07-Jun-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1021.6322;08-Jun-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1021.7956;09-Jun-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1023.3222;10-Jun-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1024.1822;11-Jun-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1024.3933;14-Jun-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1021.9167;15-Jun-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1019.1022;16-Jun-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1019.9578;17-Jun-2021
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01115;1020.6467;18-Jun-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;995.9497;22-Mar-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;998.8909;23-Mar-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;999.8585;24-Mar-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;999.6457;25-Mar-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1000.4873;26-Mar-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1001.196;30-Mar-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1001.7528;31-Mar-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1004.8726;05-Apr-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1005.6882;06-Apr-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1005.4057;07-Apr-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1004.6619;08-Apr-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1006.0637;09-Apr-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1006.1584;12-Apr-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1005.3823;15-Apr-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1005.3407;16-Apr-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1006.1084;19-Apr-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1006.4525;20-Apr-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1007.1352;22-Apr-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1008.291;23-Apr-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1007.5825;26-Apr-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1008.1397;27-Apr-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1008.8485;28-Apr-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1009.0684;29-Apr-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1009.674;30-Apr-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1010.7355;03-May-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1010.5354;04-May-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1010.8337;05-May-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1011.0137;06-May-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1011.7334;07-May-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1012.1384;10-May-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1012.7927;11-May-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1012.7398;12-May-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1012.3877;14-May-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1013.1263;17-May-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1013.9908;18-May-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1014.1049;19-May-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1014.711;20-May-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1014.9747;21-May-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1015.4933;24-May-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1013.6052;25-May-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1014.2325;27-May-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1013.9166;28-May-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1012.8057;31-May-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1013.4823;01-Jun-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1013.7475;02-Jun-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1013.9398;03-Jun-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1014.0178;04-Jun-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1015.3429;07-Jun-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1015.8387;08-Jun-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1015.9999;09-Jun-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1017.5173;10-Jun-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1018.3708;11-Jun-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1018.575;14-Jun-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1016.1111;15-Jun-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1013.3113;16-Jun-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1014.159;17-Jun-2021
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;;;INF0GCD01149;INF0GCD01131;1014.8432;18-Jun-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;995.9382;22-Mar-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;998.8789;23-Mar-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;999.8462;24-Mar-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;999.6331;25-Mar-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1000.4743;26-Mar-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1001.1815;30-Mar-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1001.7381;31-Mar-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1004.8554;05-Apr-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1005.6705;06-Apr-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1005.3875;07-Apr-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1004.6432;08-Apr-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1006.0444;09-Apr-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1006.1378;12-Apr-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1005.3603;15-Apr-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1005.3228;16-Apr-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1006.0888;19-Apr-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1006.4324;20-Apr-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1007.1146;22-Apr-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1008.27;23-Apr-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1010.3604;26-Apr-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1010.9256;27-Apr-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1011.6364;28-Apr-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1011.8567;29-Apr-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1012.4637;30-Apr-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1013.527;03-May-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1013.326;04-May-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1013.6246;05-May-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1013.8045;06-May-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1014.5256;07-May-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1014.9297;10-May-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1015.5853;11-May-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1015.5317;12-May-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1015.1777;14-May-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1015.9166;17-May-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1016.783;18-May-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1016.8969;19-May-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1017.5042;20-May-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1017.7683;21-May-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1018.2868;24-May-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1019.2008;25-May-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1019.8388;27-May-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1019.5215;28-May-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1018.4027;31-May-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1019.0825;01-Jun-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1019.3486;02-Jun-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1019.5414;03-Jun-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1019.6194;04-Jun-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1020.9504;07-Jun-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1021.4484;08-Jun-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1021.61;09-Jun-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1023.1354;10-Jun-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1023.9932;11-Jun-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1024.1974;14-Jun-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1021.7195;15-Jun-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1018.9038;16-Jun-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1019.7557;17-Jun-2021
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01164;INF0GCD01156;1020.4431;18-Jun-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;995.91;22-Mar-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;998.852;23-Mar-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;999.82;24-Mar-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;999.61;25-Mar-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1000.45;26-Mar-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1001.154;30-Mar-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1001.712;31-Mar-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1004.8916;05-Apr-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1005.7119;06-Apr-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1005.4351;07-Apr-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1004.6949;08-Apr-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1006.1004;09-Apr-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1005.5052;12-Apr-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1004.7684;15-Apr-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1004.7351;16-Apr-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1004.8134;19-Apr-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1005.1915;20-Apr-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1005.8808;22-Apr-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1007.0413;23-Apr-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1008.4449;26-Apr-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1009.0416;27-Apr-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1009.7537;28-Apr-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1009.9767;29-Apr-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1010.5874;30-Apr-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1010.9617;03-May-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1010.7931;04-May-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1011.0958;05-May-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1011.2803;06-May-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1012.0037;07-May-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1011.7243;10-May-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1012.4094;11-May-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1012.3596;12-May-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1012.0156;14-May-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1012.0655;17-May-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1012.9608;18-May-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1013.0787;19-May-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1013.6865;20-May-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1013.9522;21-May-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1013.7795;24-May-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1014.7179;25-May-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1015.3584;27-May-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1015.0448;28-May-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1013.2476;31-May-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1013.9552;01-Jun-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1014.2239;02-Jun-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1014.4212;03-Jun-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1014.5041;04-Jun-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1015.1426;07-Jun-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1015.6695;08-Jun-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1015.8353;09-Jun-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1017.3566;10-Jun-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1018.2151;11-Jun-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1017.7312;14-Jun-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1015.2981;15-Jun-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1012.5041;16-Jun-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1013.3554;17-Jun-2021
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01123;1014.0444;18-Jun-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;995.2514;22-Mar-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;998.1764;23-Mar-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;999.1291;24-Mar-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;998.9024;25-Mar-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;999.7292;26-Mar-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1000.3808;30-Mar-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1000.923;31-Mar-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1003.9688;05-Apr-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1004.7693;06-Apr-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1004.4727;07-Apr-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1003.7153;08-Apr-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1005.1014;09-Apr-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1005.1532;12-Apr-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1004.335;15-Apr-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1004.2837;16-Apr-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1005.0074;19-Apr-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1005.3368;20-Apr-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1005.9906;22-Apr-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1007.1308;23-Apr-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1009.1772;26-Apr-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1009.7278;27-Apr-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1010.4236;28-Apr-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1010.6298;29-Apr-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1011.222;30-Apr-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1012.2423;03-May-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1012.0276;04-May-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1012.3118;05-May-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1012.4776;06-May-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1013.1838;07-May-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1013.5456;10-May-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1014.1863;11-May-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1014.1188;12-May-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1013.7373;14-May-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1014.4334;17-May-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1015.2845;18-May-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1015.3842;19-May-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1015.9766;20-May-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1016.2263;21-May-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1016.7019;24-May-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1017.6004;25-May-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1018.2093;27-May-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1017.8776;28-May-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1016.7185;31-May-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1017.3832;01-Jun-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1017.6349;02-Jun-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1017.8133;03-Jun-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1017.8772;04-Jun-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1019.1637;07-Jun-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1019.6469;08-Jun-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1019.7941;09-Jun-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1021.3027;10-Jun-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1022.1449;11-Jun-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1022.3064;14-Jun-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1019.819;15-Jun-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1016.9945;16-Jun-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1017.8308;17-Jun-2021
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01099;INF0GCD01081;1018.5028;18-Jun-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;995.214;22-Mar-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;998.14;23-Mar-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;999.094;24-Mar-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;998.87;25-Mar-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;999.696;26-Mar-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1000.344;30-Mar-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1000.888;31-Mar-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1003.93;05-Apr-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1004.732;06-Apr-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1004.436;07-Apr-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1003.678;08-Apr-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1005.066;09-Apr-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1005.02;12-Apr-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1004.104;15-Apr-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1003.952;16-Apr-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1004.88;19-Apr-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1005.21;20-Apr-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1005.864;22-Apr-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1007.004;23-Apr-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1009.054;26-Apr-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1009.606;27-Apr-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1010.3;28-Apr-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1010.506;29-Apr-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1011.1;30-Apr-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1012.122;03-May-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1011.908;04-May-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1012.1376;05-May-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1012.3076;06-May-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1013.0168;07-May-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1013.389;10-May-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1014.0318;11-May-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1013.9664;12-May-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1013.5892;14-May-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1014.2913;17-May-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1015.1454;18-May-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1015.248;19-May-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1015.8415;20-May-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1016.0929;21-May-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1016.5728;24-May-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1017.4731;25-May-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1018.0857;27-May-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1017.7568;28-May-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1016.606;31-May-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1017.2739;01-Jun-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1017.5274;02-Jun-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1017.7085;03-Jun-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1017.7749;04-Jun-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1019.0705;07-Jun-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1019.5564;08-Jun-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1019.7073;09-Jun-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1021.2182;10-Jun-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1022.0632;11-Jun-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1022.2342;14-Jun-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1019.7505;15-Jun-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1016.9289;16-Jun-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1017.7688;17-Jun-2021
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01024;1018.4418;18-Jun-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;995.14;22-Mar-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;998.064;23-Mar-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;999.016;24-Mar-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;998.787;25-Mar-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;999.613;26-Mar-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1000.263;30-Mar-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1000.805;31-Mar-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1003.845;05-Apr-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1004.644;06-Apr-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1004.347;07-Apr-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1003.589;08-Apr-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1004.973;09-Apr-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1005.021;12-Apr-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1004.2;15-Apr-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1004.148;16-Apr-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1004.868;19-Apr-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1005.196;20-Apr-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1005.849;22-Apr-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1006.988;23-Apr-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1006.23;26-Apr-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1006.7661;27-Apr-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1007.4641;28-Apr-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1007.6735;29-Apr-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1008.2688;30-Apr-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1009.299;03-May-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1009.0876;04-May-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1009.3757;05-May-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1009.5453;06-May-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1010.2533;07-May-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1010.6262;10-May-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1011.2694;11-May-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1011.2066;12-May-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1010.8347;14-May-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1011.5407;17-May-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1012.3943;18-May-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1012.499;19-May-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1013.0933;20-May-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1013.3466;21-May-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1013.8303;24-May-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1011.9306;25-May-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1012.5179;27-May-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1012.1927;28-May-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1011.0541;31-May-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1011.7194;01-Jun-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1011.9739;02-Jun-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1012.1549;03-Jun-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1012.2235;04-Jun-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1013.5163;07-Jun-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1014.0016;08-Jun-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1014.1527;09-Jun-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1015.6583;10-Jun-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1016.5006;11-Jun-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1016.6756;14-Jun-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1014.2064;15-Jun-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1011.4021;16-Jun-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1012.2385;17-Jun-2021
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01057;INF0GCD01040;1012.9097;18-Jun-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;995.14;22-Mar-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;998.064;23-Mar-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;999.016;24-Mar-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;998.787;25-Mar-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;999.613;26-Mar-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1000.263;30-Mar-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1000.805;31-Mar-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1003.845;05-Apr-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1004.644;06-Apr-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1004.347;07-Apr-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1003.589;08-Apr-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1004.973;09-Apr-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1005.021;12-Apr-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1004.2;15-Apr-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1004.148;16-Apr-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1004.868;19-Apr-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1005.196;20-Apr-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1005.849;22-Apr-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1006.988;23-Apr-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1009.03;26-Apr-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1009.58;27-Apr-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1010.275;28-Apr-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1010.48;29-Apr-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1011.072;30-Apr-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1012.09;03-May-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1011.873;04-May-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1012.157;05-May-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1012.322;06-May-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1013.027;07-May-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1013.386;10-May-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1014.025;11-May-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1013.956;12-May-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1013.572;14-May-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1014.262;17-May-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1015.112;18-May-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1015.211;19-May-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1015.802;20-May-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1016.051;21-May-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1016.521;24-May-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1017.418;25-May-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1018.024;27-May-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1017.692;28-May-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1016.532;31-May-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1017.196;01-Jun-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1017.447;02-Jun-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1017.624;03-Jun-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1017.688;04-Jun-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1018.974;07-Jun-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1019.457;08-Jun-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1019.604;09-Jun-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1021.113;10-Jun-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1021.955;11-Jun-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1022.116;14-Jun-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1019.629;15-Jun-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1016.805;16-Jun-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1017.641;17-Jun-2021
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;INF0GCD01073;INF0GCD01065;1018.311;18-Jun-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;995.214;22-Mar-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;998.14;23-Mar-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;999.094;24-Mar-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;998.87;25-Mar-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;999.696;26-Mar-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1000.344;30-Mar-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1000.888;31-Mar-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1003.93;05-Apr-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1004.732;06-Apr-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1004.436;07-Apr-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1003.678;08-Apr-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1005.066;09-Apr-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1004.42;12-Apr-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1003.7138;15-Apr-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1003.6658;16-Apr-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1003.7058;19-Apr-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1004.137;20-Apr-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1004.7982;22-Apr-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1005.9409;23-Apr-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1007.3012;26-Apr-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1007.9517;27-Apr-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1008.6484;28-Apr-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1008.8581;29-Apr-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1009.455;30-Apr-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1009.7884;03-May-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1009.6748;04-May-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1009.9641;05-May-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1010.1357;06-May-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1010.846;07-May-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1010.5247;10-May-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1011.2622;11-May-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1011.2004;12-May-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1010.8315;14-May-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1010.8395;17-May-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1011.7876;18-May-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1011.8912;19-May-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1012.4851;20-May-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1012.7381;21-May-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1012.5229;24-May-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1013.5152;25-May-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1014.1307;27-May-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1013.802;28-May-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1011.9598;31-May-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1012.7189;01-Jun-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1012.9757;02-Jun-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1013.1588;03-Jun-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1013.2265;04-Jun-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1013.8197;07-Jun-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1014.4022;08-Jun-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1014.5534;09-Jun-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1016.0593;10-Jun-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1016.9007;11-Jun-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1016.3736;14-Jun-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1013.996;15-Jun-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1011.1869;16-Jun-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1012.0179;17-Jun-2021
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;;;INF0GCD01032;1012.6859;18-Jun-2021
