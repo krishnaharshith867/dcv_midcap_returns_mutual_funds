@@ -5,6 +5,35 @@ Then:                        gunicorn app:server
 """
 import json, re, sys
 
+
+# ------------------------------------------------------------------
+# EDIT THESE: shown on the landing page ("/")
+PROJECT_TITLE = "Mid-cap Mutual Funds: Direct vs Regular"
+PROJECT_SUB   = "Data collection, cleaning and visualisation project"
+TEAM = [                      # (name, role)  <- put your real names here
+    ("Member 1", "Role / contribution"),
+    ("Member 2", "Role / contribution"),
+    ("Member 3", "Role / contribution"),
+    ("Member 4", "Role / contribution"),
+]
+NAV = [                       # (path, short label shown in the top bar)
+    ("/d1/", "1 \u00b7 Landscape"),
+    ("/d2/", "2 \u00b7 Commission cost"),
+    ("/d3/", "3 \u00b7 Returns"),
+    ("/d4/", "4 \u00b7 TER vs returns"),
+    ("/d5/", "5 \u00b7 Risk"),
+    ("/d6/", "6 \u00b7 Scorecard"),
+]
+RQS = [
+    ("RQ1", "/d1/", "How has the mid-cap mutual fund landscape evolved over time?", "Dashboard 1 \u2014 Dataset overview, fund-house coverage, NAV and TER trends."),
+    ("RQ2", "/d2/", "How much does the distributor commission in Regular plans cost investors compared to Direct plans?", "Dashboard 2 \u2014 TER differences, commission share and long-term compounding impact."),
+    ("RQ3", "/d3/", "Do Direct plans generate higher returns than Regular plans across mid-cap mutual fund houses?", "Dashboard 3 \u2014 NAV performance, annualised returns and Direct\u2013Regular comparisons."),
+    ("RQ4", "/d4/", "Is a higher Total Expense Ratio associated with lower investment returns in mid-cap mutual funds?", "Dashboard 4 \u2014 TER-return correlation, regression and fund-house comparisons."),
+    ("RQ5", "/d5/", "How do Direct and Regular plans differ in terms of investment risk and downside performance?", "Dashboard 5 \u2014 Volatility, drawdowns and risk comparisons."),
+    ("RQ6", "/d6/", "How does each fund house perform across returns, expenses and risk, and how does its Direct plan compare with its Regular plan?", "Dashboard 6 \u2014 Interactive fund-house scorecard, CAGR, drawdown, rankings and final verdict."),
+]
+# ------------------------------------------------------------------
+
 NOTEBOOK = "Dashboard6_Fund_House_Scorecard.ipynb"
 OUT = "app.py"
 
@@ -21,15 +50,77 @@ server = Flask(__name__)
 
 PAGES = {}   # path -> title, filled in below
 
+BAR_BG, BAR_LINE, BAR_TEXT, BAR_MUTED, BAR_ACTIVE = "#0d0d0d", "#2a2a2a", "#E6EDF3", "#9AA7B4", "#38BDF8"
+
+def nav_bar(active=None):
+    """Sticky top bar for the Dash dashboards. Plain <a> links: each dashboard is its own app."""
+    from dash import html
+    tips = {p: q for _, p, q, _ in RQS}
+    def link(path, label, tip=None):
+        on = path == active
+        return html.A(label, href=path, title=tip or label, style={
+            "color": BAR_ACTIVE if on else BAR_TEXT, "textDecoration": "none", "whiteSpace": "nowrap",
+            "padding": "14px 14px", "fontWeight": 600 if on else 400, "fontSize": "0.95rem",
+            "borderBottom": "3px solid " + (BAR_ACTIVE if on else "transparent")})
+    items = [link("/", "⌂ Home", "Project home")] + [link(p, l, tips.get(p)) for p, l in NAV]
+    return html.Div(items, style={
+        "display": "flex", "gap": "4px", "overflowX": "auto", "position": "sticky", "top": 0, "zIndex": 1000,
+        "background": BAR_BG, "borderBottom": "1px solid " + BAR_LINE, "padding": "0 16px",
+        "margin": "0 -1.5rem 16px -1.5rem"})
+
+def nav_html(active=None):
+    from html import escape as e
+    tips = {p: q for _, p, q, _ in RQS}
+    def a(p, l, t=None):
+        return '<a href="%s" title="%s" class="%s">%s</a>' % (p, e(t or l), "on" if p == active else "", e(l))
+    return "<nav>" + a("/", "⌂ Home", "Project home") + "".join(a(p, l, tips.get(p)) for p, l in NAV) + "</nav>"
+
+
 '''
 
 FOOTER = '''
 
+def _stats():
+    try:
+        d = nav["Date"]
+        return [(f"{nav['MF_ID'].nunique()}", "Fund houses"),
+                (f"{len(nav):,}", "NAV records"),
+                (f"{d.min():%b %Y} \u2013 {d.max():%b %Y}", "Period covered"),
+                ("6", "Dashboards")]
+    except Exception:
+        return [("6", "Dashboards")]
+
 @server.route("/")
 def index():
-    links = "".join(f'<li><a href="{p}">{t}</a></li>' for p, t in PAGES.items())
-    return ("<html><body style='font-family:sans-serif;background:#111;color:#eee;padding:40px'>"
-            "<h1>Mid-cap mutual funds dashboards</h1><ul style='line-height:2'>" + links + "</ul></body></html>")
+    from html import escape as e
+    stats = "".join(f'<div class="stat"><div class="v">{e(v)}</div><div class="l">{e(l)}</div></div>' for v, l in _stats())
+    team = "".join(f'<div class="member"><div class="av">{e(n[:1])}</div><div><b>{e(n)}</b><br><span>{e(r)}</span></div></div>' for n, r in TEAM)
+    rqs = "".join(f'<a class="rq" href="{p}"><span class="tag">{t}</span><div><h3>{e(q)}</h3><p>{e(d)}</p></div></a>'
+                  for t, p, q, d in RQS)
+    return f"""<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{e(PROJECT_TITLE)}</title><style>
+*{{box-sizing:border-box}}body{{margin:0;background:#060606;color:#E6EDF3;font-family:Inter,Segoe UI,sans-serif}}
+.wrap{{max-width:1100px;margin:0 auto;padding:48px 24px}}
+h1{{font-size:2.2rem;margin:0}}.sub{{color:#9AA7B4;margin:6px 0 32px}}
+.stats{{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:16px;margin-bottom:40px}}
+.stat{{background:#282828;border-radius:10px;padding:18px}}.stat .v{{font-size:1.6rem;font-weight:600;color:#38BDF8}}.stat .l{{color:#9AA7B4}}
+h2{{font-size:1.1rem;color:#9AA7B4;text-transform:uppercase;letter-spacing:.08em;margin:36px 0 14px}}
+.team{{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px}}
+.member{{display:flex;gap:14px;align-items:center;background:#282828;border-radius:10px;padding:16px}}
+.av{{width:44px;height:44px;border-radius:50%;background:#A78BFA;color:#111;display:flex;align-items:center;justify-content:center;font-weight:700;flex:none}}
+.member span{{color:#9AA7B4;font-size:.9rem}}
+.rq{{display:flex;gap:18px;align-items:flex-start;padding:20px 8px;border-top:1px solid #222;color:inherit;text-decoration:none}}
+.rq:hover{{background:#141414}}.rq h3{{margin:0 0 6px;font-size:1.1rem}}.rq p{{margin:0;color:#9AA7B4}}
+.tag{{background:#16233a;color:#60A5FA;border-radius:999px;padding:4px 12px;font-weight:600;flex:none}}
+nav{{position:sticky;top:0;z-index:10;display:flex;gap:4px;overflow-x:auto;background:#0d0d0d;border-bottom:1px solid #2a2a2a;padding:0 16px}}
+nav a{{color:#E6EDF3;text-decoration:none;white-space:nowrap;padding:14px;border-bottom:3px solid transparent}}
+nav a:hover{{color:#38BDF8}}nav a.on{{color:#38BDF8;font-weight:600;border-color:#38BDF8}}
+</style></head><body>{nav_html('/')}<div class="wrap">
+<h1>{e(PROJECT_TITLE)}</h1><div class="sub">{e(PROJECT_SUB)}</div>
+<div class="stats">{stats}</div>
+<h2>Team</h2><div class="team">{team}</div>
+<h2>Research questions &amp; dashboards</h2><div>{rqs}</div>
+</div></body></html>"""
 
 @server.route("/healthz")
 def healthz():
@@ -74,9 +165,14 @@ def mount(m):
 
 code, count = re.subn(r"app(\d?) = Dash\(__name__, external_stylesheets=\[THEME\]\)", mount, code)
 print(f"mounted {count} Dash apps")
+code, n_nav = re.subn(r"(app(\d?)\.layout = dbc\.Container\(\[)",
+                      lambda m: m.group(1) + f'\n    nav_bar("/d{m.group(2) or 1}/"),', code)
+print(f"nav bar added to {n_nav} layouts")
+assert n_nav == count
 
 # the first app was called `app`; fine, keep names as in notebook
-full = HEADER + code + FOOTER
+CONFIG = "\n".join(f"{k} = {globals()[k]!r}" for k in ("PROJECT_TITLE", "PROJECT_SUB", "TEAM", "NAV", "RQS")) + "\n\n"
+full = HEADER + CONFIG + code + FOOTER
 compile(full, OUT, "exec")          # syntax check
 open(OUT, "w", encoding="utf-8").write(full)
 print("wrote", OUT)

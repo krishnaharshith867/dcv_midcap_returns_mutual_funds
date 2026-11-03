@@ -11,6 +11,38 @@ server = Flask(__name__)
 
 PAGES = {}   # path -> title, filled in below
 
+BAR_BG, BAR_LINE, BAR_TEXT, BAR_MUTED, BAR_ACTIVE = "#0d0d0d", "#2a2a2a", "#E6EDF3", "#9AA7B4", "#38BDF8"
+
+def nav_bar(active=None):
+    """Sticky top bar for the Dash dashboards. Plain <a> links: each dashboard is its own app."""
+    from dash import html
+    tips = {p: q for _, p, q, _ in RQS}
+    def link(path, label, tip=None):
+        on = path == active
+        return html.A(label, href=path, title=tip or label, style={
+            "color": BAR_ACTIVE if on else BAR_TEXT, "textDecoration": "none", "whiteSpace": "nowrap",
+            "padding": "14px 14px", "fontWeight": 600 if on else 400, "fontSize": "0.95rem",
+            "borderBottom": "3px solid " + (BAR_ACTIVE if on else "transparent")})
+    items = [link("/", "⌂ Home", "Project home")] + [link(p, l, tips.get(p)) for p, l in NAV]
+    return html.Div(items, style={
+        "display": "flex", "gap": "4px", "overflowX": "auto", "position": "sticky", "top": 0, "zIndex": 1000,
+        "background": BAR_BG, "borderBottom": "1px solid " + BAR_LINE, "padding": "0 16px",
+        "margin": "0 -1.5rem 16px -1.5rem"})
+
+def nav_html(active=None):
+    from html import escape as e
+    tips = {p: q for _, p, q, _ in RQS}
+    def a(p, l, t=None):
+        return '<a href="%s" title="%s" class="%s">%s</a>' % (p, e(t or l), "on" if p == active else "", e(l))
+    return "<nav>" + a("/", "⌂ Home", "Project home") + "".join(a(p, l, tips.get(p)) for p, l in NAV) + "</nav>"
+
+
+PROJECT_TITLE = 'Mid-cap Mutual Funds: Direct vs Regular'
+PROJECT_SUB = 'Data collection, cleaning and visualisation project'
+TEAM = [('Member 1', 'Role / contribution'), ('Member 2', 'Role / contribution'), ('Member 3', 'Role / contribution'), ('Member 4', 'Role / contribution')]
+NAV = [('/d1/', '1 · Landscape'), ('/d2/', '2 · Commission cost'), ('/d3/', '3 · Returns'), ('/d4/', '4 · TER vs returns'), ('/d5/', '5 · Risk'), ('/d6/', '6 · Scorecard')]
+RQS = [('RQ1', '/d1/', 'How has the mid-cap mutual fund landscape evolved over time?', 'Dashboard 1 — Dataset overview, fund-house coverage, NAV and TER trends.'), ('RQ2', '/d2/', 'How much does the distributor commission in Regular plans cost investors compared to Direct plans?', 'Dashboard 2 — TER differences, commission share and long-term compounding impact.'), ('RQ3', '/d3/', 'Do Direct plans generate higher returns than Regular plans across mid-cap mutual fund houses?', 'Dashboard 3 — NAV performance, annualised returns and Direct–Regular comparisons.'), ('RQ4', '/d4/', 'Is a higher Total Expense Ratio associated with lower investment returns in mid-cap mutual funds?', 'Dashboard 4 — TER-return correlation, regression and fund-house comparisons.'), ('RQ5', '/d5/', 'How do Direct and Regular plans differ in terms of investment risk and downside performance?', 'Dashboard 5 — Volatility, drawdowns and risk comparisons.'), ('RQ6', '/d6/', 'How does each fund house perform across returns, expenses and risk, and how does its Direct plan compare with its Regular plan?', 'Dashboard 6 — Interactive fund-house scorecard, CAGR, drawdown, rankings and final verdict.')]
+
 # imports
 import numpy as np
 import pandas as pd
@@ -256,6 +288,7 @@ app = Dash(__name__, server=server, url_base_pathname="/d1/", external_styleshee
 title0, cards0, fig_nav0, fig_ter0, table0 = profile(default_id)     # first view is drawn without a callback
 
 app.layout = dbc.Container([
+    nav_bar("/d1/"),
     # ---- header ----
     dbc.Row(dbc.Col([html.H1("Mid-cap mutual funds", className="mt-3 mb-0"),
                      html.P("Dashboard 1 · Who is in our data, and what does each fund COMPANY look like?",
@@ -391,6 +424,7 @@ def grey(values):
     return {v: {"label": str(v), "style": {"color": MUTED}} for v in values}
 
 app2.layout = dbc.Container([
+    nav_bar("/d2/"),
     dbc.Row(dbc.Col([html.H1("Mid-cap mutual funds: Direct vs Regular", className="mt-3 mb-0"),
                      html.P("Dashboard 2 · What does the distributor's commission cost?", className="text-muted")],
                     width=12), className="mb-3"),
@@ -460,6 +494,7 @@ pv = (nav.pivot_table(index=["MF_ID", "Date"], columns="Plan", values="NAV")
 pv = pv.merge(companies[["MF_ID", "COMPANY"]], on="MF_ID")
 last_date = pv["Date"].max()
 
+CHART_H3 = 440      # every chart card in the top row gets the same chart area
 WINDOWS = {"1 year": 1, "3 years": 3, "5 years": 5, "Since start": None}
 
 def window_stats(n_years):
@@ -504,7 +539,7 @@ def return_fig(st):
                  color_discrete_map={"Direct": DIRECT, "Regular": REGULAR})
     fig.update_yaxes(categoryorder="array", categoryarray=list(d["COMPANY"]), title_text="")
     fig.update_xaxes(ticksuffix="%", title_text="Return (% a year)")
-    return style_fig(fig, 40 * len(d) + 100)
+    return style_fig(fig, max(CHART_H3, 34 * len(d) + 100))      # taller than the card -> scrolls inside it
 
 # ---------- chart B: does the fee gap show up in the returns? ----------
 def scatter_fig(st):
@@ -518,7 +553,7 @@ def scatter_fig(st):
     fig.update_xaxes(title_text="Fee gap (pp a year)", showgrid=True, gridcolor=GRID)
     fig.update_yaxes(title_text="Return gap (pp a year)")
     fig.update_layout(showlegend=False)
-    return style_fig(fig, 380)
+    return style_fig(fig, CHART_H3)
 
 def window_text(st, name):
     return f"""
@@ -559,43 +594,54 @@ W0 = "3 years"
 fig_g0, text_g0 = growth_fig(co_default)
 
 app3.layout = dbc.Container([
+    nav_bar("/d3/"),
+    # ---- header ----
     dbc.Row(dbc.Col([html.H1("Mid-cap mutual funds: Direct vs Regular", className="mt-3 mb-0"),
                      html.P("Dashboard 3 · Do Direct plans really earn more?", className="text-muted")],
                     width=12), className="mb-3"),
 
-    # ---- window picker ----
-    dbc.Row([
-        dbc.Col([html.H4("Pick a time window", className="mb-0"),
+    # ---- row 1: window picker (one full-width card) ----
+    dbc.Row(dbc.Col(dbc.Card(dbc.CardBody(dbc.Row([
+        dbc.Col([html.H5("Pick a time window", className="mb-0"),
                  html.Small("Only companies with enough history for the window are compared.", className="text-muted")], md=6),
         dbc.Col(dcc.RadioItems(id="window", options=list(WINDOWS), value=W0, inline=True,
-                               labelStyle={"marginRight": "20px"}), md=6),
-    ], className="mb-3 align-items-end"),
+                               labelStyle={"marginRight": "20px"}), md=6, className="d-flex align-items-center"),
+    ])))), className="mb-4"),
 
+    # ---- row 2: four equal KPI cards ----
     html.Div(kpi_row(STATS[W0]), id="kpis"),
 
+    # ---- row 3: two equal cards, same height ----
     dbc.Row([
         dbc.Col(chart_card("Return of each fund company",
-                           "Blue = Direct, orange = Regular. The gap between the two bars is what Regular gives up.",
-                           dcc.Graph(id="return-graph", figure=return_fig(STATS[W0]), config={"displayModeBar": False})),
-                width=7),
-        dbc.Col([
-            chart_card("Does the fee gap show up in returns?", "Each dot is a fund company.",
-                       dcc.Graph(id="scatter-graph", figure=scatter_fig(STATS[W0]), config={"displayModeBar": False})),
-            dbc.Card(dbc.CardBody([html.H5("What this tells us"),
-                                   dcc.Markdown(window_text(STATS[W0], W0), id="ret-text")]), className="mt-3"),
-        ], width=5),
+                           "Blue = Direct, orange = Regular. Scroll for all companies.",
+                           html.Div(dcc.Graph(id="return-graph", figure=return_fig(STATS[W0]),
+                                              config={"displayModeBar": False}),
+                                    style={"height": f"{CHART_H3}px", "overflowY": "auto", "overflowX": "hidden"})),
+                md=6),
+        dbc.Col(chart_card("Does the fee gap show up in returns?",
+                           "Each dot is a fund company.",
+                           dcc.Graph(id="scatter-graph", figure=scatter_fig(STATS[W0]),
+                                     config={"displayModeBar": False})),
+                md=6),
     ], className="mb-4"),
 
-    # ---- one company, real growth ----
-    dbc.Row([
-        dbc.Col([html.H4("What Rs 10 lakh really became", className="mb-0"),
-                 html.Small("Pick a fund company to see its full history, Direct vs Regular.", className="text-muted")], md=8),
-        dbc.Col(dcc.Dropdown(id="co-select", options=co_options, value=co_default, clearable=False), md=4),
-    ], className="mb-3 align-items-end"),
-    dbc.Row(dbc.Col(chart_card("Growth of Rs 10 lakh", "Same money, same day, two plans.",
-                               html.Div([dcc.Graph(id="growth-graph", figure=fig_g0, config={"displayModeBar": False}),
-                                         dcc.Markdown(text_g0, id="growth-text")])), width=12),
-            className="mb-5"),
+    # ---- row 4: takeaways, full width ----
+    dbc.Row(dbc.Col(dbc.Card(dbc.CardBody([html.H5("What this tells us"),
+                                           dcc.Markdown(window_text(STATS[W0], W0), id="ret-text")]))),
+            className="mb-4"),
+
+    # ---- row 5: one company, real growth (one full-width card, picker inside) ----
+    dbc.Row(dbc.Col(dbc.Card(dbc.CardBody([
+        dbc.Row([
+            dbc.Col([html.H5("Growth of Rs 10 lakh", className="mb-0"),
+                     html.Small("Same money, same day, two plans. Pick a fund company for its full history.",
+                                className="text-muted")], md=8),
+            dbc.Col(dcc.Dropdown(id="co-select", options=co_options, value=co_default, clearable=False), md=4),
+        ], className="mb-3 align-items-end"),
+        dcc.Graph(id="growth-graph", figure=fig_g0, config={"displayModeBar": False}),
+        dcc.Markdown(text_g0, id="growth-text"),
+    ]))), className="mb-5"),
 ], fluid=True, className="px-4")
 
 @app3.callback(Output("kpis", "children"), Output("return-graph", "figure"),
@@ -896,6 +942,7 @@ PAGES["/d4/"] = "Dashboard 4"
 app4 = Dash(__name__, server=server, url_base_pathname="/d4/", external_stylesheets=[THEME])
 
 app4.layout = dbc.Container([
+    nav_bar("/d4/"),
     dbc.Row(dbc.Col([html.H1("Mid-cap mutual funds: Direct vs Regular", className="mt-3 mb-0"),
                      html.P("Dashboard 4 · Do costlier funds return less?", className="text-muted")], width=12),
             className="mb-3"),
@@ -1161,6 +1208,7 @@ PAGES["/d5/"] = "Dashboard 5"
 app5 = Dash(__name__, server=server, url_base_pathname="/d5/", external_stylesheets=[THEME])
 
 app5.layout = dbc.Container([
+    nav_bar("/d5/"),
     dbc.Row(dbc.Col([html.H1("Mid-cap mutual funds: Direct vs Regular", className="mt-3 mb-0"),
                      html.P("Dashboard 5 · What does the extra cost buy: less risk, smaller crashes, steadier returns?",
                             className="text-muted")], width=12), className="mb-3"),
@@ -1509,6 +1557,7 @@ PAGES["/d6/"] = "Dashboard 6 - Fund house scorecard"
 app6 = Dash(__name__, server=server, url_base_pathname="/d6/", external_stylesheets=[THEME])
 
 app6.layout = dbc.Container([
+    nav_bar("/d6/"),
     dbc.Row(dbc.Col([
         html.H1("Mid-cap mutual funds: Direct vs Regular", className="mt-3 mb-0"),
         html.P("Dashboard 6 · Fund-house scorecard", className="text-muted")
@@ -1576,11 +1625,51 @@ def update_scorecard6(mf_id, window):
 
 
 
+
+
+
+
+def _stats():
+    try:
+        d = nav["Date"]
+        return [(f"{nav['MF_ID'].nunique()}", "Fund houses"),
+                (f"{len(nav):,}", "NAV records"),
+                (f"{d.min():%b %Y} – {d.max():%b %Y}", "Period covered"),
+                ("6", "Dashboards")]
+    except Exception:
+        return [("6", "Dashboards")]
+
 @server.route("/")
 def index():
-    links = "".join(f'<li><a href="{p}">{t}</a></li>' for p, t in PAGES.items())
-    return ("<html><body style='font-family:sans-serif;background:#111;color:#eee;padding:40px'>"
-            "<h1>Mid-cap mutual funds dashboards</h1><ul style='line-height:2'>" + links + "</ul></body></html>")
+    from html import escape as e
+    stats = "".join(f'<div class="stat"><div class="v">{e(v)}</div><div class="l">{e(l)}</div></div>' for v, l in _stats())
+    team = "".join(f'<div class="member"><div class="av">{e(n[:1])}</div><div><b>{e(n)}</b><br><span>{e(r)}</span></div></div>' for n, r in TEAM)
+    rqs = "".join(f'<a class="rq" href="{p}"><span class="tag">{t}</span><div><h3>{e(q)}</h3><p>{e(d)}</p></div></a>'
+                  for t, p, q, d in RQS)
+    return f"""<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{e(PROJECT_TITLE)}</title><style>
+*{{box-sizing:border-box}}body{{margin:0;background:#060606;color:#E6EDF3;font-family:Inter,Segoe UI,sans-serif}}
+.wrap{{max-width:1100px;margin:0 auto;padding:48px 24px}}
+h1{{font-size:2.2rem;margin:0}}.sub{{color:#9AA7B4;margin:6px 0 32px}}
+.stats{{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:16px;margin-bottom:40px}}
+.stat{{background:#282828;border-radius:10px;padding:18px}}.stat .v{{font-size:1.6rem;font-weight:600;color:#38BDF8}}.stat .l{{color:#9AA7B4}}
+h2{{font-size:1.1rem;color:#9AA7B4;text-transform:uppercase;letter-spacing:.08em;margin:36px 0 14px}}
+.team{{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px}}
+.member{{display:flex;gap:14px;align-items:center;background:#282828;border-radius:10px;padding:16px}}
+.av{{width:44px;height:44px;border-radius:50%;background:#A78BFA;color:#111;display:flex;align-items:center;justify-content:center;font-weight:700;flex:none}}
+.member span{{color:#9AA7B4;font-size:.9rem}}
+.rq{{display:flex;gap:18px;align-items:flex-start;padding:20px 8px;border-top:1px solid #222;color:inherit;text-decoration:none}}
+.rq:hover{{background:#141414}}.rq h3{{margin:0 0 6px;font-size:1.1rem}}.rq p{{margin:0;color:#9AA7B4}}
+.tag{{background:#16233a;color:#60A5FA;border-radius:999px;padding:4px 12px;font-weight:600;flex:none}}
+nav{{position:sticky;top:0;z-index:10;display:flex;gap:4px;overflow-x:auto;background:#0d0d0d;border-bottom:1px solid #2a2a2a;padding:0 16px}}
+nav a{{color:#E6EDF3;text-decoration:none;white-space:nowrap;padding:14px;border-bottom:3px solid transparent}}
+nav a:hover{{color:#38BDF8}}nav a.on{{color:#38BDF8;font-weight:600;border-color:#38BDF8}}
+</style></head><body>{nav_html('/')}<div class="wrap">
+<h1>{e(PROJECT_TITLE)}</h1><div class="sub">{e(PROJECT_SUB)}</div>
+<div class="stats">{stats}</div>
+<h2>Team</h2><div class="team">{team}</div>
+<h2>Research questions &amp; dashboards</h2><div>{rqs}</div>
+</div></body></html>"""
 
 @server.route("/healthz")
 def healthz():
