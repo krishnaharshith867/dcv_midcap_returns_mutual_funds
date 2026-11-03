@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: midcap-mf-dashboards
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements-render.txt
+    startCommand: gunicorn app:server --workers 1 --threads 2 --timeout 180
+    healthCheckPath: /healthz
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
