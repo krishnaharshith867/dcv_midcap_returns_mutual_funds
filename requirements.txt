@@ -25,3 +25,5 @@ feedparser
 selenium
 urllib
 StringIO
+dash
+dash_bootstrap_components
