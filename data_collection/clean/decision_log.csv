@@ -1,0 +1,32 @@
+columns,problem,action,method_used,rows_affected
+Net Asset Value,string instead of number,converted to float64,pd.to_numeric,206239
+Date,string instead of datetime,converted to datetime,pd.to_datetime,206239
+Net Asset Value,"zero, negative or non-numeric NAV","none found, nothing changed",pd.to_numeric(errors='coerce') and a <= 0 check,0
+"TER_Date, TER_Year, Month",three columns that hold the same date,kept one datetime column Date and dropped the other two,pd.to_datetime,0
+TER numeric columns,numbers stored as text (700190 values),converted to float64,pd.to_numeric,700190
+TER numeric columns,empty markers written as text (0 values),replaced by NaN,replace with a list of markers,0
+Date (NAV),14 fund houses have no rows in some years,"reported only, no rows invented",years present per MF_ID,0
+Date (TER),13 fund houses have no rows in some years,"reported only, no rows invented",years present per MF_ID,0
+"Scheme Code, NAV Name, ISIN Div Payout/ISIN Growth, ISIN Div Reinvestment, Category","not needed: MF_ID, Plan and Option already identify the scheme",dropped 5 columns,column review,0
+"Net Asset Value, AMC",names that are not clear,renamed to NAV and Mutual_Fund_Company,rename,0
+"NSDLSchemeCode, SchemeType_Desc, SchemeCat_Desc, strCat",not needed: MF_ID identifies the scheme and type and category are the same for all rows,dropped 4 columns,column review,0
+"Scheme_Name, Date, R_TER, D_TER",the TER columns of the main analysis,"kept as ter_main, all other columns stay in ter_complement",column selection,0
+Option,"the table also holds dividend (IDCW) rows, the project uses the growth option only",kept the growth rows only,Option isin growth_options,112415
+Option,"after the filter every row is growth, so the column holds no information",dropped the column,value_counts,0
+NAV,missing values check,"no missing values, nothing to fill",isna per column,0
+"R_TER, D_TER",missing values check,"no missing values, nothing to fill",isna per column,0
+"R_BaseTER, R_6A_B, R_6A_C, R_GST, D_BaseTER, D_6A_B, D_6A_C, D_GST",empty from the date the new BER format starts (MAR),"not imputed, the analysis uses R_TER and D_TER which are complete",missingness matrix + MAR reasoning,5921
+"R_BER, R_BrokerageCost, R_TransactionCost, R_StatutoryLevies, D_*",empty before the new BER format starts (MAR),"not imputed, used only for the period where they exist",missingness matrix + MAR reasoning,64098
+R_TER,outlier (impossible TER),set to NaN,"range 0.05 to 4, parts of the TER, neighbours",955
+R_TER,outlier (impossible TER),divided by 10,"range 0.05 to 4, parts of the TER, neighbours",1
+D_TER,outlier (impossible TER),set to NaN,"range 0.05 to 4, parts of the TER, neighbours",1786
+D_TER,outlier (impossible TER),divided by 10,"range 0.05 to 4, parts of the TER, neighbours",10
+D_TER,outlier (impossible TER),recomputed from parts,"range 0.05 to 4, parts of the TER, neighbours",1
+NAV,one-day spike not explained by the other funds and reversed next day,"NAV set to NaN, class kept in nav_flag",median of the day + reversal test,0
+NAV,real market days flagged by z-score/IQR/modified z,kept,median of the day,1623
+NAV,big unexplained days,kept and flagged in nav_flag,median of the day + reversal test,0
+"NAV, TER",capping or removing flagged values,not done,comparison in 6.5,0
+NAV,same MF_ID + Plan + Date more than once,kept one row; NaN where copies disagreed,key check,0
+TER,same MF_ID + Date more than once,kept one row; NaN where copies disagreed,key check,1783
+Scheme_Name,same scheme with different spelling or after a rename inside one house,extra spaces removed; scheme_label = latest name of the house,standardize + block on MF_ID + Jaro-Winkler 0.85,33856
+"NAV, TER","tables joined on MF_ID + Date (last TER on or before the NAV date, max 35 days)","left join, no NAV row lost; TER empty where none found",name check + key coverage + merge_asof,671
