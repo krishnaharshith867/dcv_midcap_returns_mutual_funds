@@ -1,29 +1,29 @@
+# Dashboard
+dash
+dash-bootstrap-components
+plotly
+
+# Data processing
 pandas
 numpy
-requests
 pyarrow
-matplotlib
-seaborn
 scipy
 statsmodels
-rapidfuzz
-jupyterlab
-ipykernel
-missingno
-python-dateutil
-tqdm
-plotly
-kaleido
+
+# Visualization
+matplotlib
+seaborn
+
+# Data collection and APIs
+requests
 beautifulsoup4
 lxml
-nbformat
-openpyxl
-flake8 
-pylint
-black
 feedparser
-selenium
-urllib
-StringIO
-dash
-dash_bootstrap_components
+rapidfuzz
+
+# Utilities
+tqdm
+openpyxl
+missingno
+kaleido
+nbformat
